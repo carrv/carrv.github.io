@@ -53,4 +53,4 @@ conference venues.
 ## Contact
 
 All questions about submissions can be emailed to Arun Thomas
-<arun.thomas@baesystems.com>.
+<<arun.thomas@baesystems.com>>.
