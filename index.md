@@ -35,4 +35,17 @@ improve it.
 ## Submission Guidelines
 
 All papers should be submitted electronically by
-[EasyChair](https://easychair.org/conferences/?conf=carrv2017). Submissions must be limited to 6 pages.
+[EasyChair](https://easychair.org/conferences/?conf=carrv2017). Submissions
+must be limited to 6 pages. Papers must be in PDF format and should
+include title, authors and affiliation, e-mail address of the contact
+author.
+
+Papers must be formatted in accordance to the ACM two column
+style. ACM Word or LaTeX style templates are available
+[here](http://www.acm.org/publications/proceedings-template).
+
+Note: Authors may submit to both CARRV and the 7th RISC-V Workshop,
+but please remember that CARRV has an explicit research focus.
+
+Note: Workshop publications do not preclude publishing at future
+conference venues.
