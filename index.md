@@ -49,3 +49,8 @@ but please remember that CARRV has an explicit research focus.
 
 Note: Workshop publications do not preclude publishing at future
 conference venues.
+
+## Contact
+
+All questions about submissions can be emailed to Arun Thomas
+<arun.thomas@baesystems.com>.
