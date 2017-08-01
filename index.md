@@ -27,8 +27,8 @@ improve it.
 
 ## Important Dates
 
-* Abstract submission deadline August 1, 2017
-* Full paper submission deadline: August 8, 2017
+* Abstract submission deadline: ~~August 1, 2017~~ August 8, 2017
+* Full paper submission deadline: ~~August 8, 2017~~ August 15, 2017
 * Author notification: August 31, 2017
 * Camera-ready version due: September 14, 2017
 
