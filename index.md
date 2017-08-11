@@ -36,7 +36,8 @@ improve it.
 
 All papers should be submitted electronically by
 [EasyChair](https://easychair.org/conferences/?conf=carrv2017). Submissions
-must be limited to 6 pages. Papers must be in PDF format and should
+must be limited to 6 pages including figures and tables, plus as many
+pages as needed for references. Papers must be in PDF format and should
 include title, authors and affiliation, e-mail address of the contact
 author.
 
