@@ -25,6 +25,87 @@ discussing experiences with using the current state of the RISC-V
 ecosystem for architecture research and what directions to take to
 improve it.
 
+## Preliminary Program
+
+8:30am - 9am
+
+Krste Asanovic. Computer Architecture Research with RISC-V
+
+9am-10:40am
+
+Christopher Batten, Michael Taylor and Ronald Dreslinski. Experiences
+Using the RISC-V Ecosystem to Design an Accelerator-Centric SoC in
+TSMC 16nm
+
+Schuyler Eldridge, Karthik Swaminathan, Nandhini Chandramoorthy, Alper
+Buyuktosunoglu, Alec Roelke, Xinfei Guo, Vaibhav Verma, Rajiv Joshi,
+Mircea Stan and Pradip Bose. A Low Voltage RISC-V Heterogeneous
+System - Long
+
+Christopher Celio, Pi-Feng Chiu, Borivoje Nikolic, David Patterson and
+Krste Asanovic. BOOMv2: an open-source out-of-order RISC-V core
+
+Henry Cook, Wesley Terpstra and Yunsup Lee. Diplomatic Design
+Patterns: A TileLink Case Study
+
+10:40am - 11am
+
+Break
+
+11am - 12:05pm
+
+Andreas Kurth, Pirmin Vogel, Andrea Marongiu, Alessandro Capotondi and
+Luca Benini. HERO: Heterogeneous Embedded Research Platform for
+Exploring RISC-V Manycore Accelerators on FPGA
+
+Jan Gray. GRVI Phalanx: A Massively Parallel RISC-V FPGA Accelerator
+Framework, and a 1680-core, 26 MB SRAM Parallel Processor Overlay on
+Xilinx UltraScale+ VU9P
+
+Eric Matthews and Lesley Shannon. Taiga: A Configurable RISC-V
+soft-processor framework for Heterogeneous Computing Systems Research
+
+12:05pm - 1pm
+
+Lunch
+
+1pm - 3pm
+
+Jack Dennis and Willie Lim. A RISC V Extension for the Fresh Breeze
+Architecture
+
+Sylvain Collange. Simty: generalized SIMT execution on RISC-V
+
+Hyunyoung Oh, Yongje Lee, Junmo Park, Myonghoon Yang and Yunheung
+Paek. Building Hardware Components for Memory Protection of
+Applications on a Tiny Processor
+
+Zihao Yu, Bowen Huang, Jiuyue Ma, Ninghui Sun and Yungang Bao. Labeled
+RISC-V: A New Perspective on Software-Defined Architecture
+
+Luis Vega and Michael Bedford Taylor. RV-IOV: Tethering RISC-V
+Processors via Scalable I/O Virtualization
+
+Donggyu Kim, Christopher Celio, David Biancolin, Jonathan Bachrach and
+Krste Asanovic. Evaluation of RISC-V RTL Designs with FPGA Simulation
+
+3:30pm - 4:45pm
+
+Martin Maas, Krste Asanovic and John Kubiatowicz. Full-System
+Simulation of Java Workloads With RISC-V and the Jikes Research
+Virtual Machine
+
+Michael Clark and Bruce Hoult. rv8: a high performance RISC-V to x86
+binary translator
+
+Alec Roelke and Mircea Stan. RISC5: Implementing the RISC-V ISA in
+gem5
+
+4:45pm - 5:30pm
+
+Open Discussion - Current State of RISC-V for Research
+
+
 ## Important Dates
 
 * Abstract submission deadline: ~~August 1, 2017~~ August 8, 2017
@@ -54,4 +135,4 @@ conference venues.
 ## Contact
 
 All questions about submissions can be emailed to Arun Thomas
-<<arun.thomas@baesystems.com>>.
+<<arun.thomas@acm.org>>.
