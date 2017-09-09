@@ -41,8 +41,7 @@ Krste Asanovic (University of California, Berkeley).
 
 <tr>
 <td>
-9am-10:40am
-<br>
+9am - 9:25am<br>
 Experiences Using the RISC-V Ecosystem to Design an
 Accelerator-Centric SoC in TSMC 16nm<br>
 Tutu Ajayi (University of Michigan), Khalid Al-Hawaj (Cornell
@@ -60,6 +59,7 @@ Dreslinski (University of Michigan), Rajesh Gupta (University of
 California, San Diego), Michael Taylor (University of California,
 San Diego) and Zhiru Zhang (Cornell University)
 <br><br>
+9:25am - 9:50am<br>
 A Low Voltage RISC-V Heterogeneous System<br>
 Schuyler Eldridge (IBM T. J. Watson Research), Karthik Swaminathan
 (IBM T. J. Watson Research), Nandhini Chandramoorthy (IBM T. J. Watson
@@ -69,12 +69,15 @@ Vaibhav Verma (University of Virginia), Rajiv Joshi (IBM T. J. Watson
 Research), Mircea Stan (University of Virginia) and Pradip Bose (IBM
 T. J. Watson Research)
 <br><br>
+9:50am - 10:15am<br>
 BOOMv2: an open-source out-of-order RISC-V core<br>
 Christopher Celio (University of California, Berkeley), Pi-Feng Chiu
 (University of California, Berkeley), Borivoje Nikolic (University of
 California, Berkeley), David Patterson (University of California,
 Berkeley) and Krste Asanovic (University of California, Berkeley)
 <br><br>
+10:15am - 10:40am
+<br>
 Diplomatic Design Patterns: A TileLink Case Study<br>
 Henry Cook (SiFive), Wesley Terpstra (SiFive) and Yunsup Lee (SiFive)
 </td>
@@ -82,27 +85,27 @@ Henry Cook (SiFive), Wesley Terpstra (SiFive) and Yunsup Lee (SiFive)
 
 <tr>
 <td>
-10:40am - 11am
-<br>
+10:40am - 11am<br>
 Break
 </td>
 </tr>
 
 <tr>
 <td>
-11am - 12:05pm
-<br>
+11am - 11:25am<br>
 HERO: Heterogeneous Embedded Research Platform for Exploring RISC-V
 Manycore Accelerators on FPGA<br>
 Andreas Kurth (ETH Zurich), Pirmin Vogel (ETH Zurich), Andrea Marongiu
 (ETH Zurich), Alessandro Capotondi (University of Bologna) and Luca
 Benini (ETH Zurich)
 <br><br>
+11:25am - 11:40am<br>
 GRVI Phalanx: A Massively Parallel RISC-V<br>
 Jan Gray (Gray Research)
 FPGA Accelerator Framework, and a 1680-core, 26 MB SRAM Parallel
 Processor Overlay on Xilinx UltraScale+ VU9P
 <br><br>
+11:40am - 12:05pm<br>
 Taiga: A Configurable RISC-V soft-processor framework for
 Heterogeneous Computing Systems Research<br>
 Eric Matthews (Simon Fraser University) and Lesley Shannon (Simon
@@ -112,22 +115,22 @@ Fraser University)
 
 <tr>
 <td>
-12:05pm - 1pm
-<br>
+12:05pm - 1pm<br>
 Lunch
 </td>
 </tr>
 
 <tr>
 <td>
-1pm - 3pm
-<br>
+1pm - 1:25pm<br>
 A RISC V Extension for the Fresh Breeze Architecture<br>
 Jack Dennis (MIT) and Willie Lim (MIT)
 <br><br>
+1:25pm - 1:50pm<br>
 Simty: generalized SIMT execution on RISC-V<br>
 Sylvain Collange (INRIA)
 <br><br>
+1:50pm - 2:05pm<br>
 Building Hardware Components for Memory Protection of Applications on
 a Tiny Processor<br>
 Hyunyoung Oh (Seoul National University), Yongje Lee (Seoul National
@@ -135,16 +138,19 @@ University), Junmo Park (Seoul National University), Myonghoon Yang
 (Seoul National University) and Yunheung Paek (Seoul National
 University)
 <br><br>
+2:05pm - 2:20pm<br>
 Labeled RISC-V: A New Perspective on Software-Defined Architecture<br>
 Zihao Yu (Chinese Academy of Sciences), Bowen Huang (Chinese Academy
 of Sciences), Jiuyue Ma (Chinese Academy of Sciences), Ninghui Sun
 (Chinese Academy of Sciences) and Yungang Bao (Chinese Academy of
 Sciences)
 <br><br>
+2:20pm - 2:35pm<br>
 RV-IOV: Tethering RISC-V Processors via Scalable I/O Virtualization<br>
 Luis Vega (University of Washington) and Michael Taylor (University of
 Washington)
 <br><br>
+2:35pm - 3pm<br>
 Evaluation of RISC-V RTL Designs with FPGA Simulation<br>
 Donggyu Kim (University of California, Berkeley), Christopher Celio
 (University of California, Berkeley), David Biancolin (University of
@@ -156,25 +162,25 @@ Berkeley)
 
 <tr>
 <td>
-3pm - 3:30pm
-<br>
+3pm - 3:30pm<br>
 Break
 </td>
 </tr>
 
 <tr>
 <td>
-3:30pm - 4:45pm
-<br>
+3:30pm - 3:55pm<br>
 Full-System Simulation of Java Workloads With RISC-V and the Jikes
 Research Virtual Machine<br>
 Martin Maas (University of California, Berkeley), Krste Asanovic
 (University of California, Berkeley) and John Kubiatowicz (University
 of California, Berkeley)
 <br><br>
+3:55pm - 4:20pm<br>
 rv8: a high performance RISC-V to x86 binary translator<br>
 Michael Clark (rv8) and Bruce Hoult (rv8)
 <br><br>
+4:20pm - 4:45pm<br>
 RISC5: Implementing the RISC-V ISA in gem5<br>
 Alec Roelke (University of Virginia) and Mircea Stan (University of
 Virginia)
@@ -183,8 +189,7 @@ Virginia)
 
 <tr>
 <td>
-4:45pm - 5:30pm
-<br>
+4:45pm - 5:30pm<br>
 Open Discussion - Current State of RISC-V for Research
 </td>
 </tr>
