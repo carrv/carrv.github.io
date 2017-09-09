@@ -34,7 +34,8 @@ improve it.
 <td>
 8:30am - 9am
 <br>
-Krste Asanovic. Computer Architecture Research with RISC-V
+Krste Asanovic (University of California, Berkeley). Computer
+Architecture Research with RISC-V
 </td>
 </tr>
 
@@ -42,20 +43,38 @@ Krste Asanovic. Computer Architecture Research with RISC-V
 <td>
 9am-10:40am
 <br>
-Christopher Batten, Michael Taylor and Ronald Dreslinski. Experiences
-Using the RISC-V Ecosystem to Design an Accelerator-Centric SoC in
-TSMC 16nm
+Tutu Ajayi (University of Michigan), Khalid Al-Hawaj (Cornell
+University), Aporva Amarnath (University of Michigan), Steve Dai
+(Cornell University), Scott Davidson (University of California, San
+Diego), Paul Gao (University of California, San Diego), Gai Liu
+(Cornell University), Anuj Rao (University of California, San Diego),
+Austin Rovinski (University of Michigan), Ningxiao Sun (University of
+California, San Diego), Christopher Torng (Cornell University), Luis
+Vega (University of California, San Diego), Bandhav Veluri (University
+of California, San Diego), Shaolin Xie (University of California, San
+Diego), Chun Zhao (University of California, San Diego), Ritchie Zhao
+(Cornell University), Christopher Batten (Cornell University), Ronald
+Dreslinski (University of Michigan), Rajesh Gupta (University of
+California, San Diego), Michael Taylor (University of California,
+San Diego) and Zhiru Zhang (Cornell University). Experiences Using the
+RISC-V Ecosystem to Design an Accelerator-Centric SoC in TSMC 16nm
 <br><br>
-Schuyler Eldridge, Karthik Swaminathan, Nandhini Chandramoorthy, Alper
-Buyuktosunoglu, Alec Roelke, Xinfei Guo, Vaibhav Verma, Rajiv Joshi,
-Mircea Stan and Pradip Bose. A Low Voltage RISC-V Heterogeneous
-System
+Schuyler Eldridge (IBM T. J. Watson Research), Karthik Swaminathan
+(IBM T. J. Watson Research), Nandhini Chandramoorthy (IBM T. J. Watson
+Research), Alper Buyuktosunoglu (IBM T. J. Watson Research), Alec
+Roelke (University of Virginia), Xinfei Guo (University of Virginia),
+Vaibhav Verma (University of Virginia), Rajiv Joshi (IBM T. J. Watson
+Research), Mircea Stan (University of Virginia) and Pradip Bose (IBM
+T. J. Watson Research). A Low Voltage RISC-V Heterogeneous System
 <br><br>
-Christopher Celio, Pi-Feng Chiu, Borivoje Nikolic, David Patterson and
-Krste Asanovic. BOOMv2: an open-source out-of-order RISC-V core
+Christopher Celio (University of California, Berkeley), Pi-Feng Chiu
+(University of California, Berkeley), Borivoje Nikolic (University of
+California, Berkeley), David Patterson (University of California,
+Berkeley) and Krste Asanovic (University of California,
+Berkeley). BOOMv2: an open-source out-of-order RISC-V core
 <br><br>
-Henry Cook, Wesley Terpstra and Yunsup Lee. Diplomatic Design
-Patterns: A TileLink Case Study
+Henry Cook (SiFive), Wesley Terpstra (SiFive) and Yunsup Lee
+(SiFive). Diplomatic Design Patterns: A TileLink Case Study
 </td>
 </tr>
 
@@ -67,21 +86,22 @@ Break
 </td>
 </tr>
 
-
 <tr>
 <td>
 11am - 12:05pm
 <br>
-Andreas Kurth, Pirmin Vogel, Andrea Marongiu, Alessandro Capotondi and
-Luca Benini. HERO: Heterogeneous Embedded Research Platform for
-Exploring RISC-V Manycore Accelerators on FPGA
+Andreas Kurth (ETH Zurich), Pirmin Vogel (ETH Zurich), Andrea Marongiu
+(ETH Zurich), Alessandro Capotondi (University of Bologna) and Luca
+Benini (ETH Zurich). HERO: Heterogeneous Embedded Research Platform
+for Exploring RISC-V Manycore Accelerators on FPGA
 <br><br>
-Jan Gray. GRVI Phalanx: A Massively Parallel RISC-V FPGA Accelerator
-Framework, and a 1680-core, 26 MB SRAM Parallel Processor Overlay on
-Xilinx UltraScale+ VU9P
+Jan Gray (Gray Research). GRVI Phalanx: A Massively Parallel RISC-V
+FPGA Accelerator Framework, and a 1680-core, 26 MB SRAM Parallel
+Processor Overlay on Xilinx UltraScale+ VU9P
 <br><br>
-Eric Matthews and Lesley Shannon. Taiga: A Configurable RISC-V
-soft-processor framework for Heterogeneous Computing Systems Research
+Eric Matthews (Simon Fraser University) and Lesley Shannon (Simon
+Fraser University). Taiga: A Configurable RISC-V soft-processor
+framework for Heterogeneous Computing Systems Research
 </td>
 </tr>
 
@@ -97,23 +117,32 @@ Lunch
 <td>
 1pm - 3pm
 <br>
-Jack Dennis and Willie Lim. A RISC V Extension for the Fresh Breeze
+Jack Dennis (MIT) and Willie Lim (MIT). A RISC V Extension for the Fresh Breeze
 Architecture
 <br><br>
-Sylvain Collange. Simty: generalized SIMT execution on RISC-V
+Sylvain Collange (INRIA). Simty: generalized SIMT execution on RISC-V
 <br><br>
-Hyunyoung Oh, Yongje Lee, Junmo Park, Myonghoon Yang and Yunheung
-Paek. Building Hardware Components for Memory Protection of
+Hyunyoung Oh (Seoul National University), Yongje Lee (Seoul National
+University), Junmo Park (Seoul National University), Myonghoon Yang
+(Seoul National University) and Yunheung Paek (Seoul National
+University). Building Hardware Components for Memory Protection of
 Applications on a Tiny Processor
 <br><br>
-Zihao Yu, Bowen Huang, Jiuyue Ma, Ninghui Sun and Yungang Bao. Labeled
-RISC-V: A New Perspective on Software-Defined Architecture
+Zihao Yu (Chinese Academy of Sciences), Bowen Huang (Chinese Academy
+of Sciences), Jiuyue Ma (Chinese Academy of Sciences), Ninghui Sun
+(Chinese Academy of Sciences) and Yungang Bao (Chinese Academy of
+Sciences). Labeled RISC-V: A New Perspective on Software-Defined
+Architecture
 <br><br>
-Luis Vega and Michael Bedford Taylor. RV-IOV: Tethering RISC-V
-Processors via Scalable I/O Virtualization
+Luis Vega (University of Washington) and Michael Taylor (University of
+Washington). RV-IOV: Tethering RISC-V Processors via Scalable I/O
+Virtualization
 <br><br>
-Donggyu Kim, Christopher Celio, David Biancolin, Jonathan Bachrach and
-Krste Asanovic. Evaluation of RISC-V RTL Designs with FPGA Simulation
+Donggyu Kim (University of California, Berkeley), Christopher Celio
+(University of California, Berkeley), David Biancolin (University of
+California, Berkeley), Jonathan Bachrach (University of California,
+Berkeley) and Krste Asanovic (University of California,
+Berkeley). Evaluation of RISC-V RTL Designs with FPGA Simulation
 </td>
 </tr>
 
@@ -129,15 +158,16 @@ Break
 <td>
 3:30pm - 4:45pm
 <br>
-Martin Maas, Krste Asanovic and John Kubiatowicz. Full-System
-Simulation of Java Workloads With RISC-V and the Jikes Research
-Virtual Machine
+Martin Maas (University of California, Berkeley), Krste Asanovic
+(University of California, Berkeley) and John Kubiatowicz (University
+of California, Berkeley). Full-System Simulation of Java Workloads
+With RISC-V and the Jikes Research Virtual Machine
 <br><br>
-Michael Clark and Bruce Hoult. rv8: a high performance RISC-V to x86
+Michael Clark (rv8) and Bruce Hoult (rv8). rv8: a high performance RISC-V to x86
 binary translator
 <br><br>
-Alec Roelke and Mircea Stan. RISC5: Implementing the RISC-V ISA in
-gem5
+Alec Roelke (University of Virginia) and Mircea Stan (University of
+Virginia). RISC5: Implementing the RISC-V ISA in gem5
 </td>
 </tr>
 
