@@ -34,8 +34,8 @@ improve it.
 <td>
 8:30am - 9am
 <br>
-Krste Asanovic (University of California, Berkeley). Computer
-Architecture Research with RISC-V
+Computer Architecture Research with RISC-V<br>
+Krste Asanovic (University of California, Berkeley).
 </td>
 </tr>
 
@@ -43,6 +43,8 @@ Architecture Research with RISC-V
 <td>
 9am-10:40am
 <br>
+Experiences Using the RISC-V Ecosystem to Design an
+Accelerator-Centric SoC in TSMC 16nm<br>
 Tutu Ajayi (University of Michigan), Khalid Al-Hawaj (Cornell
 University), Aporva Amarnath (University of Michigan), Steve Dai
 (Cornell University), Scott Davidson (University of California, San
@@ -56,25 +58,25 @@ Diego), Chun Zhao (University of California, San Diego), Ritchie Zhao
 (Cornell University), Christopher Batten (Cornell University), Ronald
 Dreslinski (University of Michigan), Rajesh Gupta (University of
 California, San Diego), Michael Taylor (University of California,
-San Diego) and Zhiru Zhang (Cornell University). Experiences Using the
-RISC-V Ecosystem to Design an Accelerator-Centric SoC in TSMC 16nm
+San Diego) and Zhiru Zhang (Cornell University)
 <br><br>
+A Low Voltage RISC-V Heterogeneous System<br>
 Schuyler Eldridge (IBM T. J. Watson Research), Karthik Swaminathan
 (IBM T. J. Watson Research), Nandhini Chandramoorthy (IBM T. J. Watson
 Research), Alper Buyuktosunoglu (IBM T. J. Watson Research), Alec
 Roelke (University of Virginia), Xinfei Guo (University of Virginia),
 Vaibhav Verma (University of Virginia), Rajiv Joshi (IBM T. J. Watson
 Research), Mircea Stan (University of Virginia) and Pradip Bose (IBM
-T. J. Watson Research). A Low Voltage RISC-V Heterogeneous System
+T. J. Watson Research)
 <br><br>
+BOOMv2: an open-source out-of-order RISC-V core<br>
 Christopher Celio (University of California, Berkeley), Pi-Feng Chiu
 (University of California, Berkeley), Borivoje Nikolic (University of
 California, Berkeley), David Patterson (University of California,
-Berkeley) and Krste Asanovic (University of California,
-Berkeley). BOOMv2: an open-source out-of-order RISC-V core
+Berkeley) and Krste Asanovic (University of California, Berkeley)
 <br><br>
-Henry Cook (SiFive), Wesley Terpstra (SiFive) and Yunsup Lee
-(SiFive). Diplomatic Design Patterns: A TileLink Case Study
+Diplomatic Design Patterns: A TileLink Case Study<br>
+Henry Cook (SiFive), Wesley Terpstra (SiFive) and Yunsup Lee (SiFive)
 </td>
 </tr>
 
@@ -90,18 +92,21 @@ Break
 <td>
 11am - 12:05pm
 <br>
+HERO: Heterogeneous Embedded Research Platform for Exploring RISC-V
+Manycore Accelerators on FPGA<br>
 Andreas Kurth (ETH Zurich), Pirmin Vogel (ETH Zurich), Andrea Marongiu
 (ETH Zurich), Alessandro Capotondi (University of Bologna) and Luca
-Benini (ETH Zurich). HERO: Heterogeneous Embedded Research Platform
-for Exploring RISC-V Manycore Accelerators on FPGA
+Benini (ETH Zurich)
 <br><br>
-Jan Gray (Gray Research). GRVI Phalanx: A Massively Parallel RISC-V
+GRVI Phalanx: A Massively Parallel RISC-V<br>
+Jan Gray (Gray Research)
 FPGA Accelerator Framework, and a 1680-core, 26 MB SRAM Parallel
 Processor Overlay on Xilinx UltraScale+ VU9P
 <br><br>
+Taiga: A Configurable RISC-V soft-processor framework for
+Heterogeneous Computing Systems Research<br>
 Eric Matthews (Simon Fraser University) and Lesley Shannon (Simon
-Fraser University). Taiga: A Configurable RISC-V soft-processor
-framework for Heterogeneous Computing Systems Research
+Fraser University)
 </td>
 </tr>
 
@@ -117,32 +122,35 @@ Lunch
 <td>
 1pm - 3pm
 <br>
-Jack Dennis (MIT) and Willie Lim (MIT). A RISC V Extension for the Fresh Breeze
-Architecture
+A RISC V Extension for the Fresh Breeze Architecture<br>
+Jack Dennis (MIT) and Willie Lim (MIT)
 <br><br>
-Sylvain Collange (INRIA). Simty: generalized SIMT execution on RISC-V
+Simty: generalized SIMT execution on RISC-V<br>
+Sylvain Collange (INRIA)
 <br><br>
+Building Hardware Components for Memory Protection of Applications on
+a Tiny Processor<br>
 Hyunyoung Oh (Seoul National University), Yongje Lee (Seoul National
 University), Junmo Park (Seoul National University), Myonghoon Yang
 (Seoul National University) and Yunheung Paek (Seoul National
-University). Building Hardware Components for Memory Protection of
-Applications on a Tiny Processor
+University)
 <br><br>
+Labeled RISC-V: A New Perspective on Software-Defined Architecture<br>
 Zihao Yu (Chinese Academy of Sciences), Bowen Huang (Chinese Academy
 of Sciences), Jiuyue Ma (Chinese Academy of Sciences), Ninghui Sun
 (Chinese Academy of Sciences) and Yungang Bao (Chinese Academy of
-Sciences). Labeled RISC-V: A New Perspective on Software-Defined
-Architecture
+Sciences)
 <br><br>
+RV-IOV: Tethering RISC-V Processors via Scalable I/O Virtualization<br>
 Luis Vega (University of Washington) and Michael Taylor (University of
-Washington). RV-IOV: Tethering RISC-V Processors via Scalable I/O
-Virtualization
+Washington)
 <br><br>
+Evaluation of RISC-V RTL Designs with FPGA Simulation<br>
 Donggyu Kim (University of California, Berkeley), Christopher Celio
 (University of California, Berkeley), David Biancolin (University of
 California, Berkeley), Jonathan Bachrach (University of California,
 Berkeley) and Krste Asanovic (University of California,
-Berkeley). Evaluation of RISC-V RTL Designs with FPGA Simulation
+Berkeley)
 </td>
 </tr>
 
@@ -158,16 +166,18 @@ Break
 <td>
 3:30pm - 4:45pm
 <br>
+Full-System Simulation of Java Workloads With RISC-V and the Jikes
+Research Virtual Machine<br>
 Martin Maas (University of California, Berkeley), Krste Asanovic
 (University of California, Berkeley) and John Kubiatowicz (University
-of California, Berkeley). Full-System Simulation of Java Workloads
-With RISC-V and the Jikes Research Virtual Machine
+of California, Berkeley)
 <br><br>
-Michael Clark (rv8) and Bruce Hoult (rv8). rv8: a high performance RISC-V to x86
-binary translator
+rv8: a high performance RISC-V to x86 binary translator<br>
+Michael Clark (rv8) and Bruce Hoult (rv8)
 <br><br>
+RISC5: Implementing the RISC-V ISA in gem5<br>
 Alec Roelke (University of Virginia) and Mircea Stan (University of
-Virginia). RISC5: Implementing the RISC-V ISA in gem5
+Virginia)
 </td>
 </tr>
 
