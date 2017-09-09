@@ -182,7 +182,14 @@ Open Discussion - Current State of RISC-V for Research
 </tbody>
 </table>
 
+## Organizers
 
+* Arvind (MIT)
+* Krste Asanovic (University of California, Berkeley)
+* Silviu Chiricescu (BAE Systems R&D)
+* Yunsup Lee (SiFive)
+* Michael Taylor (University of California, San Diego)
+* Arun Thomas (BAE Systems R&D)
 
 ## Important Dates
 
