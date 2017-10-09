@@ -25,7 +25,7 @@ discussing experiences with using the current state of the RISC-V
 ecosystem for architecture research and what directions to take to
 improve it.
 
-## Preliminary Program
+## CARRV Program
 
 <table>
 <tbody>
