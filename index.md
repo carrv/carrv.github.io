@@ -51,13 +51,13 @@ Diego), Paul Gao (University of California, San Diego), Gai Liu
 (Cornell University), Anuj Rao (University of California, San Diego),
 Austin Rovinski (University of Michigan), Ningxiao Sun (University of
 California, San Diego), Christopher Torng (Cornell University), Luis
-Vega (University of California, San Diego), Bandhav Veluri (University
+Vega (University of Washington), Bandhav Veluri (University
 of California, San Diego), Shaolin Xie (University of California, San
 Diego), Chun Zhao (University of California, San Diego), Ritchie Zhao
 (Cornell University), Christopher Batten (Cornell University), Ronald
 Dreslinski (University of Michigan), Rajesh Gupta (University of
-California, San Diego), Michael Taylor (University of California,
-San Diego) and Zhiru Zhang (Cornell University)
+California, San Diego), Michael Taylor (University of Washington)
+and Zhiru Zhang (Cornell University)
  <a href="papers/ajayi-celerity-carrv2017.pdf">[paper]</a>
 <br><br>
 9:25am - 9:50am<br>
@@ -160,7 +160,7 @@ Sciences)
 <b>RV-IOV: Tethering RISC-V Processors via Scalable I/O Virtualization</b><br>
 Luis Vega (University of Washington) and Michael Taylor (University of
 Washington)
- <a href="papers/vega-rv_iov-carrv2017.pdf">[paper]</a>
+ <a href="papers/vega-rviov-carrv2017.pdf">[paper]</a>
 <br><br>
 2:35pm - 3pm<br>
 <b>Evaluation of RISC-V RTL Designs with FPGA Simulation</b><br>
@@ -219,7 +219,7 @@ Virginia)
 * Krste Asanovic (University of California, Berkeley)
 * Silviu Chiricescu (BAE Systems R&D)
 * Yunsup Lee (SiFive)
-* Michael Taylor (University of California, San Diego)
+* Michael Taylor (University of Washington)
 * Arun Thomas (BAE Systems R&D)
 
 ## Important Dates
