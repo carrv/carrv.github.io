@@ -1,9 +1,5 @@
 # Second Workshop on Computer Architecture Research with RISC-V (CARRV 2018)
 
-## Past CARRVs
-
-* [CARRV 2017](https://carrv.github.io/2017/)
-
 ## Los Angeles, CA, USA, June 2, 2018, Co-located with ISCA 2018
 
 The Second Workshop on Computer Architecture Research with RISC-V
@@ -68,3 +64,7 @@ conference venues.
 
 All questions about submissions can be emailed to Arun Thomas
 <<arun.thomas@acm.org>>.
+
+## Past CARRVs
+
+* [CARRV 2017](https://carrv.github.io/2017/)
