@@ -28,7 +28,7 @@ improve it.
 ## Important Dates
 
 * Abstract submission deadline: March 17, 2018
-* Full paper submission deadline: March 24, 2018 23:59 PST
+* Full paper submission deadline: March 31, 2018 23:59 PST
 * Author notification: April 8, 2017
 * Camera-ready version due: May 19, 2018
 
