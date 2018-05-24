@@ -110,8 +110,8 @@ Tuan Ta, Lin Cheng, and Christopher Batten (Cornell University)
 <td>
 2:30pm - 3:30pm<br>
 <b>Panel Discussions</b>
-<tr>
-<td>
+</tr>
+</td>
 
 </tbody>
 </table>
