@@ -105,9 +105,11 @@ Tuan Ta, Lin Cheng, and Christopher Batten (Cornell University)
  <a href="2018/papers/CARRV_2018_paper_3.pdf">[paper]</a>
 </td>
 </tr>
-<br><br>
+
+<tr>
+<td>
 2:30pm - 3:30pm<br>
-Panel Discussions
+<b>Panel Discussions</b>
 <tr>
 <td>
 
