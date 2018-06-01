@@ -68,7 +68,7 @@ Processor</b>
 <br>
 Joseph R. Kiniry (Galois, Inc.), Daniel M. Zimmerman (Galois, Inc.),
 Robert Dockins (Galois, Inc.) and Rishiyur Nikhil (Bluespec, Inc.)
-
+<a href="2018/papers/CARRV_2018_paper_5.pdf">[paper]</a>
 
 <br><br>
 11:00am - 11:30am<br>
