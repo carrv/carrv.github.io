@@ -37,7 +37,7 @@ improve it.
 <b>Chiffre: A Configurable Hardware Fault Injection Framework for RISC-V Systems</b><br>
 Schuyler Eldridge, Alper Buyuktosunoglu, Pradip Bose (IBM T. J. Watson Research Center)
  <a href="2018/papers/CARRV_2018_paper_2.pdf">[paper]</a>
- <a href="2018/papers/CARRV_2018_slides_2.pdf">[slides]</a>
+ <a href="2018/slides/CARRV_2018_slides_2.pdf">[slides]</a>
 
 <br><br>
 9am - 9:30am<br>
@@ -45,14 +45,14 @@ Schuyler Eldridge, Alper Buyuktosunoglu, Pradip Bose (IBM T. J. Watson Research 
 Neethu Bal Mallya (National University of Singapore, Singapore), Cecilia Gonzalez-Alvarez
 (Ghent University, Belgium), Trevor E. Carlson (National University of Singapore, Singapore)
  <a href="2018/papers/CARRV_2018_paper_7.pdf">[paper]</a>
- <a href="2018/papers/CARRV_2018_slides_7.pdf">[slides]</a>
+ <a href="2018/slides/CARRV_2018_slides_7.pdf">[slides]</a>
 
 <br><br>
 9:30am - 10:00am<br>
 <b>Implementation of Direct Segments on a RISC-V Processor</b><br>
 Nikhita Kunati, Michael M. Swift (University of Wisconsin-Madison)
  <a href="2018/papers/CARRV_2018_paper_4.pdf">[paper]</a>
- <a href="2018/papers/CARRV_2018_slides_4.pdf">[slides]</a>
+ <a href="2018/slides/CARRV_2018_slides_4.pdf">[slides]</a>
 </td>
 </tr>
 
@@ -72,7 +72,7 @@ Processor</b>
 Joseph R. Kiniry (Galois, Inc.), Daniel M. Zimmerman (Galois, Inc.),
 Robert Dockins (Galois, Inc.) and Rishiyur Nikhil (Bluespec, Inc.)
 <a href="2018/papers/CARRV_2018_paper_5.pdf">[paper]</a>
-<a href="2018/papers/CARRV_2018_slides_5.pdf">[slides]</a>
+<a href="2018/slides/CARRV_2018_slides_5.pdf">[slides]</a>
 
 
 <br><br>
@@ -80,14 +80,14 @@ Robert Dockins (Galois, Inc.) and Rishiyur Nikhil (Bluespec, Inc.)
 <b>Designing Digital Signal Processors with RocketChip </b><br>
 Paul Rigge, Borivoje Nikolić (University of California, Berkeley)
  <a href="2018/papers/CARRV_2018_paper_12.pdf">[paper]</a>
- <a href="2018/papers/CARRV_2018_slides_12.pdf">[slides]</a>
+ <a href="2018/slides/CARRV_2018_slides_12.pdf">[slides]</a>
 
 <br><br>
 11:30am - 12:00pm<br>
 <b>Automating the Area-Delay Trade-off Problem</b><br>
 Haven Skinner, Rafael Trapani Possignolo, Jose Renau (UCSC)
  <a href="2018/papers/CARRV_2018_paper_6.pdf ">[paper]</a>
- <a href="2018/papers/CARRV_2018_slides_6.pdf ">[slides]</a>
+ <a href="2018/slides/CARRV_2018_slides_6.pdf ">[slides]</a>
  
 </td>
 </tr>
