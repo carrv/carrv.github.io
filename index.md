@@ -36,8 +36,8 @@ improve it.
 8:30am - 9am<br>
 <b>Chiffre: A Configurable Hardware Fault Injection Framework for RISC-V Systems</b><br>
 Schuyler Eldridge, Alper Buyuktosunoglu, Pradip Bose (IBM T. J. Watson Research Center)
- <a href="2018/papers/CARRV\_2018\_paper\_2.pdf">[paper]</a>
- <a href="2018/slides/CARRV\_2018\_slides\_2.pdf">[slides]</a>
+ <a href="2018/papers/CARRV_2018_paper_2.pdf">[paper]</a>
+ <a href="2018/slides/CARRV_2018_slides_2.pdf">[slides]</a>
 
 <br><br>
 9am - 9:30am<br>
