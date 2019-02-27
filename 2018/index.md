@@ -36,23 +36,23 @@ improve it.
 8:30am - 9am<br>
 <b>Chiffre: A Configurable Hardware Fault Injection Framework for RISC-V Systems</b><br>
 Schuyler Eldridge, Alper Buyuktosunoglu, Pradip Bose (IBM T. J. Watson Research Center)
- <a href="2018/papers/CARRV_2018_paper_2.pdf">[paper]</a>
- <a href="2018/slides/CARRV_2018_slides_2.pdf">[slides]</a>
+ <a href="papers/CARRV_2018_paper_2.pdf">[paper]</a>
+ <a href="slides/CARRV_2018_slides_2.pdf">[slides]</a>
 
 <br><br>
 9am - 9:30am<br>
 <b>Flexible Timing Simulation of RISC-V Processors with Sniper</b><br>
 Neethu Bal Mallya (National University of Singapore, Singapore), Cecilia Gonzalez-Alvarez
 (Ghent University, Belgium), Trevor E. Carlson (National University of Singapore, Singapore)
- <a href="2018/papers/CARRV_2018_paper_7.pdf">[paper]</a>
- <a href="2018/slides/CARRV_2018_slides_7.pdf">[slides]</a>
+ <a href="papers/CARRV_2018_paper_7.pdf">[paper]</a>
+ <a href="slides/CARRV_2018_slides_7.pdf">[slides]</a>
 
 <br><br>
 9:30am - 10:00am<br>
 <b>Implementation of Direct Segments on a RISC-V Processor</b><br>
 Nikhita Kunati, Michael M. Swift (University of Wisconsin-Madison)
- <a href="2018/papers/CARRV_2018_paper_4.pdf">[paper]</a>
- <a href="2018/slides/CARRV_2018_slides_4.pdf">[slides]</a>
+ <a href="papers/CARRV_2018_paper_4.pdf">[paper]</a>
+ <a href="slides/CARRV_2018_slides_4.pdf">[slides]</a>
 </td>
 </tr>
 
@@ -71,23 +71,23 @@ Processor</b>
 <br>
 Joseph R. Kiniry (Galois, Inc.), Daniel M. Zimmerman (Galois, Inc.),
 Robert Dockins (Galois, Inc.) and Rishiyur Nikhil (Bluespec, Inc.)
-<a href="2018/papers/CARRV_2018_paper_5.pdf">[paper]</a>
-<a href="2018/slides/CARRV_2018_slides_5.pdf">[slides]</a>
+<a href="papers/CARRV_2018_paper_5.pdf">[paper]</a>
+<a href="slides/CARRV_2018_slides_5.pdf">[slides]</a>
 
 
 <br><br>
 11:00am - 11:30am<br>
 <b>Designing Digital Signal Processors with RocketChip </b><br>
 Paul Rigge, Borivoje Nikolić (University of California, Berkeley)
- <a href="2018/papers/CARRV_2018_paper_12.pdf">[paper]</a>
- <a href="2018/slides/CARRV_2018_slides_12.pdf">[slides]</a>
+ <a href="papers/CARRV_2018_paper_12.pdf">[paper]</a>
+ <a href="slides/CARRV_2018_slides_12.pdf">[slides]</a>
 
 <br><br>
 11:30am - 12:00pm<br>
 <b>Automating the Area-Delay Trade-off Problem</b><br>
 Haven Skinner, Rafael Trapani Possignolo, Jose Renau (UCSC)
- <a href="2018/papers/CARRV_2018_paper_6.pdf ">[paper]</a>
- <a href="2018/slides/CARRV_2018_slides_6.pdf ">[slides]</a>
+ <a href="papers/CARRV_2018_paper_6.pdf ">[paper]</a>
+ <a href="slides/CARRV_2018_slides_6.pdf ">[slides]</a>
  
 </td>
 </tr>
@@ -110,13 +110,13 @@ Sagar Karandikar (University of California, Berkeley), David Biancolin
 (University of California, Berkeley),
 Jonathan Bachrach (University of California, Berkeley), Krste Asanovic
 (University of California, Berkeley)
- <a href="2018/papers/CARRV_2018_paper_10.pdf">[paper]</a>
+ <a href="papers/CARRV_2018_paper_10.pdf">[paper]</a>
 
 <br><br>
 2:00pm - 2:30pm<br>
 <b>Simulating Multi-Core RISC-V Systems in gem5</b><br>
 Tuan Ta, Lin Cheng, Christopher Batten (Cornell University)
- <a href="2018/papers/CARRV_2018_paper_3.pdf">[paper]</a>
+ <a href="papers/CARRV_2018_paper_3.pdf">[paper]</a>
 </td>
 </tr>
 
