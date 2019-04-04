@@ -20,7 +20,7 @@ interest for the workshop include, but are not limited to:
 
 ## Important Dates
 
-* No Abstract submission required
+* No abstract submission required
 * Full paper submission deadline: April 12, 2019 23:59 PST
 * Author notification: April 26, 2019
 * Camera-ready version due: May 26, 2019
