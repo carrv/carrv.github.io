@@ -18,6 +18,97 @@ interest for the workshop include, but are not limited to:
 * RISC-V ISA and implementation performance analysis
 * RISC-V compilers and dynamic translation tools
 
+## CARRV Preliminary Program
+
+<table>
+<tbody>
+
+<tr>
+<td>
+8:30am - 9am<br>
+<b>OpenPiton+Ariane: The first Linux-booting RISC-V system scaling from one to many cores</b><br>
+Jonathan Balkind, Michael Schaffner, Katie Lim, Florian Zaruba, Fei Gao, Jinzheng Tu, David Wentzlaff and Luca Benini
+
+<br><br>
+9am - 9:30am<br>
+<b>Nested-Parallelism PageRank on RISC-V Vector Multi-Processors</b><br>
+Alon Amid, Albert Ou, Krste Asanovic and Borivoje Nikolic
+
+<br><br>
+9:30am - 10:00am<br>
+<b>Vortex RISC-V GPGPU system: Extending the ISA, Synthesizing the Microarchitecture, and Modeling the Software Stack</b><br>
+Fares Elsabbagh and Sudhakar Yalamanchili
+
+</td>
+</tr>
+
+<tr>
+<td>
+10:00am - 10:30am<br>
+<b>Break</b>
+</td>
+</tr>
+
+<tr>
+<td>
+10:30am - 11:00am<br>
+<b>Finger Finder: A Low-Energy Peak Detection Accelerator for Capacitive Touch Controllers</b><br>
+Kai Kristian Amundsen, Gaute Myklebust, Per Gunnar Kjedsberg and Magnus Jahre
+
+<br><br>
+11:00am - 11:30am<br>
+<b>Variable Precision Floating-Point RISC-V Coprocessor Evaluation using Lightweight Software and Compiler Support</b><br>
+Tiago T. Jost, Andrea Bocco, Yves Durand, Christian Fabre, Florent de Dinechin and Albert Cohen
+
+<br><br>
+11:30am - 12:00pm<br>
+<b>IEEE Floating-Point Extensions for Containing Error in the RISC-V Architecture</b><br>
+Alexander Underwood, Tuan Nguyen and James Stine
+
+</td>
+</tr>
+
+<tr>
+<td>
+12:00pm - 1:30pm<br>
+<b>Lunch</b>
+</td>
+</tr>
+
+<tr>
+<td>
+1:30pm - 2:00pm<br>
+<b>Invited Talk</b><br>
+
+<br><br>
+2:00pm - 2:30pm<br>
+<b>Using FireSim to Enable Agile End-to-End RISC-V Computer Architecture Research</b><br>
+Sagar Karandikar, David Biancolin, Alon Amid, Nathan Pemberton, Albert Ou, Randy H. Katz, Borivoje Nikolic, Jonathan Bachrach and Krste Asanovic
+
+<br><br>
+
+2:30pm - 3:00pm<br>
+<b>Fast TLB Simulation for RISC-V Systems</b><br>
+Xuan Guo and Robert Mullins
+
+<br><br>
+
+3:00pm - 3:30pm<br>
+<b>Towards Deep Learning using TensorFlow Lite on RISC-V</b><br>
+Marcia Sahaya Louis, Zahra Azad, Leila Delshadtehrani, Suyog Gupta, Pete Warden, Vijay Janapa Reddi and Ajay Joshi
+
+<br><br>
+
+3:30pm - 4:00pm<br>
+<b>Replicating and Mitigating Spectre Attacks on a Open Source RISC-V Microarchitecture</b><br>
+Abraham Gonzalez, Ben Korpan and Jerry Zhao
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
 ## Important Dates
 
 * No abstract submission required
