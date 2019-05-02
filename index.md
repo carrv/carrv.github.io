@@ -101,8 +101,7 @@ Marcia Sahaya Louis, Zahra Azad, Leila Delshadtehrani, Suyog Gupta, Pete Warden,
 
 3:30pm - 4:00pm<br>
 <b>Replicating and Mitigating Spectre Attacks on a Open Source RISC-V Microarchitecture</b><br>
-Abraham Gonzalez, Ben Korpan and Jerry Zhao
-
+Abraham Gonzalez, Ben Korpan, Jerry Zhao, Ed Younis and Krste Asanović
 </td>
 </tr>
 
