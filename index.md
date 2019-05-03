@@ -31,8 +31,8 @@ Jonathan Balkind (Princeton University), Michael Schaffner (ETH Zurich), Katie L
 
 <br><br>
 9am - 9:30am<br>
-<b>Nested-Parallelism PageRank on RISC-V Vector Multi-Processors</b><br>
-Alon Amid, Albert Ou, Krste Asanović and Borivoje Nikolić (University of California, Berkeley)
+<b>Replicating and Mitigating Spectre Attacks on a Open Source RISC-V Microarchitecture</b><br>
+Abraham Gonzalez, Ben Korpan, Jerry Zhao, Ed Younis and Krste Asanović (University of California, Berkeley)
 
 <br><br>
 9:30am - 10:00am<br>
@@ -78,7 +78,8 @@ Alexander Underwood, Tuan Nguyen and James Stine (Oklahoma State University)
 <tr>
 <td>
 1:30pm - 2:00pm<br>
-<b>Invited Talk</b><br>
+<b>Invited Talk - Federation: An Open-Source Chip Design Workflow</b><br>
+Henry Cook and Yunsup Lee (SiFive)
 
 <br><br>
 2:00pm - 2:30pm<br>
@@ -100,8 +101,8 @@ Marcia Sahaya Louis (Boston University), Zahra Azad (Boston University), Leila D
 <br><br>
 
 3:30pm - 4:00pm<br>
-<b>Replicating and Mitigating Spectre Attacks on a Open Source RISC-V Microarchitecture</b><br>
-Abraham Gonzalez, Ben Korpan, Jerry Zhao, Ed Younis and Krste Asanović (University of California, Berkeley)
+<b>Nested-Parallelism PageRank on RISC-V Vector Multi-Processors</b><br>
+Alon Amid, Albert Ou, Krste Asanović and Borivoje Nikolić (University of California, Berkeley)
 </td>
 </tr>
 
