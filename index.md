@@ -25,17 +25,22 @@ interest for the workshop include, but are not limited to:
 
 <tr>
 <td>
-8:30am - 9am<br>
+9:00am - 9:30am<br>
 <b>OpenPiton+Ariane: The first Linux-booting RISC-V system scaling from one to many cores</b><br>
 Jonathan Balkind (Princeton University), Michael Schaffner (ETH Zurich), Katie Lim (Princeton University), Florian Zaruba (ETH Zurich), Fei Gao (Princeton University), Jinzheng Tu (Princeton University), David Wentzlaff (Princeton University) and Luca Benini (ETH Zurich)
 
 <br><br>
-9am - 9:30am<br>
+9:30am - 10:00am<br>
 <b>Replicating and Mitigating Spectre Attacks on a Open Source RISC-V Microarchitecture</b><br>
 Abraham Gonzalez, Ben Korpan, Jerry Zhao, Ed Younis and Krste Asanović (University of California, Berkeley)
 
 <br><br>
-9:30am - 10:00am<br>
+10:00am - 10:30am<br>
+<b>Vortex RISC-V GPGPU system: Extending the ISA, Synthesizing the Microarchitecture, and Modeling the Software Stack</b><br>
+Fares Elsabbagh and Sudhakar Yalamanchili (Georgia Institute of Technology)
+
+<br><br>
+10:30am - 11:00am<br>
 <b>Vortex RISC-V GPGPU system: Extending the ISA, Synthesizing the Microarchitecture, and Modeling the Software Stack</b><br>
 Fares Elsabbagh and Sudhakar Yalamanchili (Georgia Institute of Technology)
 
@@ -44,24 +49,19 @@ Fares Elsabbagh and Sudhakar Yalamanchili (Georgia Institute of Technology)
 
 <tr>
 <td>
-10:00am - 10:30am<br>
+11:00am - 11:30am<br>
 <b>Break</b>
 </td>
 </tr>
 
 <tr>
 <td>
-10:30am - 11:00am<br>
-<b>Finger Finder: A Low-Energy Peak Detection Accelerator for Capacitive Touch Controllers</b><br>
-Kai Kristian Amundsen (MyWo AS), Gaute Myklebust (MyWo AS), Per Gunnar Kjedsberg (Norwegian University of Science and Technology) and Magnus Jahre (Norwegian University of Science and Technology)
-
-<br><br>
-11:00am - 11:30am<br>
+11:30am - 12:00am<br>
 <b>Variable Precision Floating-Point RISC-V Coprocessor Evaluation using Lightweight Software and Compiler Support</b><br>
 Tiago T. Jost (CEA, LETI, Univ. Grenoble Alpes), Andrea Bocco (CEA, LETI, Univ. Grenoble Alpes), Yves Durand (CEA, LETI, Univ. Grenoble Alpes), Christian Fabre (CEA, LETI, Univ. Grenoble Alpes), Florent de Dinechin (INSA) and Albert Cohen (Google)
 
 <br><br>
-11:30am - 12:00pm<br>
+12:00am - 12:30pm<br>
 <b>IEEE Floating-Point Extensions for Containing Error in the RISC-V Architecture</b><br>
 Alexander Underwood, Tuan Nguyen and James Stine (Oklahoma State University)
 
@@ -70,37 +70,37 @@ Alexander Underwood, Tuan Nguyen and James Stine (Oklahoma State University)
 
 <tr>
 <td>
-12:00pm - 1:30pm<br>
+12:30pm - 2:00pm<br>
 <b>Lunch</b>
 </td>
 </tr>
 
 <tr>
 <td>
-1:30pm - 2:00pm<br>
+2:00pm - 2:30pm<br>
 <b>Invited Talk - Federation: An Open-Source Chip Design Workflow</b><br>
 Henry Cook and Yunsup Lee (SiFive)
 
 <br><br>
-2:00pm - 2:30pm<br>
+2:30pm - 3:00pm<br>
 <b>Using FireSim to Enable Agile End-to-End RISC-V Computer Architecture Research</b><br>
 Sagar Karandikar, David Biancolin, Alon Amid, Nathan Pemberton, Albert Ou, Randy Katz, Borivoje Nikolić, Jonathan Bachrach and Krste Asanović (University of California, Berkeley)
 
 <br><br>
 
-2:30pm - 3:00pm<br>
+3:00pm - 3:30pm<br>
 <b>Fast TLB Simulation for RISC-V Systems</b><br>
 Xuan Guo and Robert Mullins (University of Cambridge)
 
 <br><br>
 
-3:00pm - 3:30pm<br>
+3:30pm - 4:00pm<br>
 <b>Towards Deep Learning using TensorFlow Lite on RISC-V</b><br>
 Marcia Sahaya Louis (Boston University), Zahra Azad (Boston University), Leila Delshadtehrani (Boston University), Suyog Gupta (Google), Pete Warden (Google), Vijay Janapa Reddi (Harvard University) and Ajay Joshi (Boston University)
 
 <br><br>
 
-3:30pm - 4:00pm<br>
+4:00pm - 4:30pm<br>
 <b>Nested-Parallelism PageRank on RISC-V Vector Multi-Processors</b><br>
 Alon Amid, Albert Ou, Krste Asanović and Borivoje Nikolić (University of California, Berkeley)
 </td>
