@@ -37,7 +37,7 @@ Abraham Gonzalez, Ben Korpan, Jerry Zhao, Ed Younis and Krste Asanović (Univers
 <br><br>
 10:00am - 10:30am<br>
 <b>Vortex RISC-V GPGPU system: Extending the ISA, Synthesizing the Microarchitecture, and Modeling the Software Stack</b><br>
-Fares Elsabbagh and Sudhakar Yalamanchili (Georgia Institute of Technology)
+Fares Elsabbagh, Bahar Asgari, Hyesoon Kim and Sudhakar Yalamanchili (Georgia Institute of Technology)
 
 <br><br>
 10:30am - 11:00am<br>
