@@ -26,7 +26,7 @@ interest for the workshop include, but are not limited to:
 <tr>
 <td>
 9:00am - 9:30am<br>
-<b>OpenPiton+Ariane: The first Linux-booting RISC-V system scaling from one to many cores</b><br>
+<b>OpenPiton+Ariane: The First SMP Linux-booting RISC-V System Scaling from One to Many Cores</b><br>
 Jonathan Balkind (Princeton University), Michael Schaffner (ETH Zurich), Katie Lim (Princeton University), Florian Zaruba (ETH Zurich), Fei Gao (Princeton University), Jinzheng Tu (Princeton University), David Wentzlaff (Princeton University) and Luca Benini (ETH Zurich)
 
  <a href="2019/papers/carrv2019_paper_12.pdf">[paper]</a>
@@ -114,10 +114,21 @@ Xuan Guo and Robert Mullins (University of Cambridge)
 
 <a href="2019/papers/carrv2019_paper_3.pdf">[paper]</a>
 
+</td>
+</tr>
 
-<br><br>
-
+<tr>
+<td>
 3:30pm - 4:00pm<br>
+<b>Break</b>
+</td>
+</tr>
+
+
+<tr>
+<td>
+
+4:00pm - 4:30pm<br>
 <b>Towards Deep Learning using TensorFlow Lite on RISC-V</b><br>
 Marcia Sahaya Louis (Boston University), Zahra Azad (Boston University), Leila Delshadtehrani (Boston University), Suyog Gupta (Google), Pete Warden (Google), Vijay Janapa Reddi (Harvard University) and Ajay Joshi (Boston University)
 
@@ -126,7 +137,7 @@ Marcia Sahaya Louis (Boston University), Zahra Azad (Boston University), Leila D
 
 <br><br>
 
-4:00pm - 4:30pm<br>
+4:30pm - 5:00pm<br>
 <b>Nested-Parallelism PageRank on RISC-V Vector Multi-Processors</b><br>
 Alon Amid, Albert Ou, Krste Asanović and Borivoje Nikolić (University of California, Berkeley)
 <a href="2019/papers/carrv2019_paper_8.pdf">[paper]</a>
