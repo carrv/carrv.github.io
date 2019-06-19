@@ -29,20 +29,31 @@ interest for the workshop include, but are not limited to:
 <b>OpenPiton+Ariane: The first Linux-booting RISC-V system scaling from one to many cores</b><br>
 Jonathan Balkind (Princeton University), Michael Schaffner (ETH Zurich), Katie Lim (Princeton University), Florian Zaruba (ETH Zurich), Fei Gao (Princeton University), Jinzheng Tu (Princeton University), David Wentzlaff (Princeton University) and Luca Benini (ETH Zurich)
 
+ <a href="2019/papers/carrv2019_paper_12.pdf">[paper]</a>
+
 <br><br>
 9:30am - 10:00am<br>
 <b>Replicating and Mitigating Spectre Attacks on a Open Source RISC-V Microarchitecture</b><br>
 Abraham Gonzalez, Ben Korpan, Jerry Zhao, Ed Younis and Krste Asanović (University of California, Berkeley)
+
+<a href="2019/papers/carrv2019_paper_5.pdf">[paper]</a>
+
 
 <br><br>
 10:00am - 10:30am<br>
 <b>Finger Finder: A Low-Energy Peak Detection Accelerator for Capacitive Touch Controllers</b><br>
 Kai Kristian Amundsen (MyWo AS), Gaute Myklebust (MyWo AS), Per Gunnar Kjedsberg (Norwegian University of Science and Technology) and Magnus Jahre (Norwegian University of Science and Technology)
 
+<a href="2019/papers/carrv2019_paper_2.pdf">[paper]</a>
+
+
 <br><br>
 10:30am - 11:00am<br>
 <b>Vortex RISC-V GPGPU system: Extending the ISA, Synthesizing the Microarchitecture, and Modeling the Software Stack</b><br>
 Fares Elsabbagh, Bahar Asgari, Hyesoon Kim and Sudhakar Yalamanchili (Georgia Institute of Technology)
+
+<a href="2019/papers/carrv2019_paper_10.pdf">[paper]</a>
+
 
 </td>
 </tr>
@@ -60,10 +71,16 @@ Fares Elsabbagh, Bahar Asgari, Hyesoon Kim and Sudhakar Yalamanchili (Georgia In
 <b>Variable Precision Floating-Point RISC-V Coprocessor Evaluation using Lightweight Software and Compiler Support</b><br>
 Tiago T. Jost (CEA, LETI, Univ. Grenoble Alpes), Andrea Bocco (CEA, LETI, Univ. Grenoble Alpes), Yves Durand (CEA, LETI, Univ. Grenoble Alpes), Christian Fabre (CEA, LETI, Univ. Grenoble Alpes), Florent de Dinechin (INSA) and Albert Cohen (Google)
 
+<a href="2019/papers/carrv2019_paper_4.pdf">[paper]</a>
+
+
 <br><br>
 12:00am - 12:30pm<br>
 <b>IEEE Floating-Point Extensions for Containing Error in the RISC-V Architecture</b><br>
 Alexander Underwood, Tuan Nguyen and James Stine (Oklahoma State University)
+
+<a href="2019/papers/carrv2019_paper_11.pdf">[paper]</a>
+
 
 </td>
 </tr>
@@ -86,11 +103,17 @@ Henry Cook and Yunsup Lee (SiFive)
 <b>Using FireSim to Enable Agile End-to-End RISC-V Computer Architecture Research</b><br>
 Sagar Karandikar, David Biancolin, Alon Amid, Nathan Pemberton, Albert Ou, Randy Katz, Borivoje Nikolić, Jonathan Bachrach and Krste Asanović (University of California, Berkeley)
 
+<a href="2019/papers/carrv2019_paper_6.pdf">[paper]</a>
+
+
 <br><br>
 
 3:00pm - 3:30pm<br>
 <b>Fast TLB Simulation for RISC-V Systems</b><br>
 Xuan Guo and Robert Mullins (University of Cambridge)
+
+<a href="2019/papers/carrv2019_paper_3.pdf">[paper]</a>
+
 
 <br><br>
 
@@ -98,11 +121,16 @@ Xuan Guo and Robert Mullins (University of Cambridge)
 <b>Towards Deep Learning using TensorFlow Lite on RISC-V</b><br>
 Marcia Sahaya Louis (Boston University), Zahra Azad (Boston University), Leila Delshadtehrani (Boston University), Suyog Gupta (Google), Pete Warden (Google), Vijay Janapa Reddi (Harvard University) and Ajay Joshi (Boston University)
 
+<a href="2019/papers/carrv2019_paper_7.pdf">[paper]</a>
+
+
 <br><br>
 
 4:00pm - 4:30pm<br>
 <b>Nested-Parallelism PageRank on RISC-V Vector Multi-Processors</b><br>
 Alon Amid, Albert Ou, Krste Asanović and Borivoje Nikolić (University of California, Berkeley)
+<a href="2019/papers/carrv2019_paper_8.pdf">[paper]</a>
+
 </td>
 </tr>
 
