@@ -45,7 +45,7 @@ Abraham Gonzalez, Ben Korpan, Jerry Zhao, Ed Younis and Krste Asanović (Univers
 Kai Kristian Amundsen (MyWo AS), Gaute Myklebust (MyWo AS), Per Gunnar Kjedsberg (Norwegian University of Science and Technology) and Magnus Jahre (Norwegian University of Science and Technology)
 
 <a href="2019/papers/carrv2019_paper_2.pdf">[paper]</a>
-<a href="2019/papers/carrv2019_slides_2.pptx">[slides]</a>
+<a href="2019/slides/carrv2019_slides_2.pptx">[slides]</a>
 
 <br><br>
 10:30am - 11:00am<br>
@@ -115,7 +115,7 @@ Sagar Karandikar, David Biancolin, Alon Amid, Nathan Pemberton, Albert Ou, Randy
 Xuan Guo and Robert Mullins (University of Cambridge)
 
 <a href="2019/papers/carrv2019_paper_3.pdf">[paper]</a>
-<a href="2019/papers/carrv2019_slides_3.pptx">[slides]</a>
+<a href="2019/slides/carrv2019_slides_3.pptx">[slides]</a>
 
 </td>
 </tr>
