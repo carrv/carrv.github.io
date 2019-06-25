@@ -45,7 +45,7 @@ Abraham Gonzalez, Ben Korpan, Jerry Zhao, Ed Younis and Krste Asanović (Univers
 Kai Kristian Amundsen (MyWo AS), Gaute Myklebust (MyWo AS), Per Gunnar Kjedsberg (Norwegian University of Science and Technology) and Magnus Jahre (Norwegian University of Science and Technology)
 
 <a href="2019/papers/carrv2019_paper_2.pdf">[paper]</a>
-
+<a href="2019/papers/carrv2019_slides_2.pptx">[slides]</a>
 
 <br><br>
 10:30am - 11:00am<br>
@@ -98,6 +98,8 @@ Alexander Underwood, Tuan Nguyen and James Stine (Oklahoma State University)
 <b>Invited Talk - Federation: An Open-Source Chip Design Workflow</b><br>
 Henry Cook and Yunsup Lee (SiFive)
 
+<a href="2019/slides/CARRV_Federation_Toolflow.pptx">[slides]</a>
+
 <br><br>
 2:30pm - 3:00pm<br>
 <b>Using FireSim to Enable Agile End-to-End RISC-V Computer Architecture Research</b><br>
@@ -113,6 +115,7 @@ Sagar Karandikar, David Biancolin, Alon Amid, Nathan Pemberton, Albert Ou, Randy
 Xuan Guo and Robert Mullins (University of Cambridge)
 
 <a href="2019/papers/carrv2019_paper_3.pdf">[paper]</a>
+<a href="2019/papers/carrv2019_slides_3.pptx">[slides]</a>
 
 </td>
 </tr>
