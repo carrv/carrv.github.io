@@ -30,6 +30,7 @@ interest for the workshop include, but are not limited to:
 Jonathan Balkind (Princeton University), Michael Schaffner (ETH Zurich), Katie Lim (Princeton University), Florian Zaruba (ETH Zurich), Fei Gao (Princeton University), Jinzheng Tu (Princeton University), David Wentzlaff (Princeton University) and Luca Benini (ETH Zurich)
 
  <a href="2019/papers/carrv2019_paper_12.pdf">[paper]</a>
+ <a href="2019/slides/carrv2019_slides_12.pdf">[slides]</a>
 
 <br><br>
 9:30am - 10:00am<br>
@@ -37,6 +38,7 @@ Jonathan Balkind (Princeton University), Michael Schaffner (ETH Zurich), Katie L
 Abraham Gonzalez, Ben Korpan, Jerry Zhao, Ed Younis and Krste Asanović (University of California, Berkeley)
 
 <a href="2019/papers/carrv2019_paper_5.pdf">[paper]</a>
+<a href="2019/papers/carrv2019_slides_5.pdf">[paper]</a>
 
 
 <br><br>
@@ -79,6 +81,7 @@ Tiago T. Jost (CEA, LETI, Univ. Grenoble Alpes), Andrea Bocco (CEA, LETI, Univ. 
 <b>IEEE Floating-Point Extensions for Containing Error in the RISC-V Architecture</b><br>
 Alexander Underwood, Tuan Nguyen and James Stine (Oklahoma State University)
 
+<a href="2019/papers/carrv2019_paper_11.pdf">[paper]</a>
 <a href="2019/papers/carrv2019_paper_11.pdf">[paper]</a>
 
 
@@ -144,6 +147,8 @@ Marcia Sahaya Louis (Boston University), Zahra Azad (Boston University), Leila D
 <b>Nested-Parallelism PageRank on RISC-V Vector Multi-Processors</b><br>
 Alon Amid, Albert Ou, Krste Asanović and Borivoje Nikolić (University of California, Berkeley)
 <a href="2019/papers/carrv2019_paper_8.pdf">[paper]</a>
+<a href="2019/papers/carrv2019_slides_8.pdf">[paper]</a>
+
 
 </td>
 </tr>
