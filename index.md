@@ -147,7 +147,7 @@ Marcia Sahaya Louis (Boston University), Zahra Azad (Boston University), Leila D
 <b>Nested-Parallelism PageRank on RISC-V Vector Multi-Processors</b><br>
 Alon Amid, Albert Ou, Krste Asanović and Borivoje Nikolić (University of California, Berkeley)
 <a href="2019/papers/carrv2019_paper_8.pdf">[paper]</a>
-<a href="2019/papers/carrv2019_slides_8.pdf">[slides]</a>
+<a href="2019/slides/carrv2019_slides_8.pdf">[slides]</a>
 
 
 </td>
