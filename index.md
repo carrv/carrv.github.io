@@ -38,7 +38,7 @@ Jonathan Balkind (Princeton University), Michael Schaffner (ETH Zurich), Katie L
 Abraham Gonzalez, Ben Korpan, Jerry Zhao, Ed Younis and Krste Asanović (University of California, Berkeley)
 
 <a href="2019/papers/carrv2019_paper_5.pdf">[paper]</a>
-<a href="2019/papers/carrv2019_slides_5.pdf">[paper]</a>
+<a href="2019/papers/carrv2019_slides_5.pdf">[slides]</a>
 
 
 <br><br>
@@ -82,7 +82,7 @@ Tiago T. Jost (CEA, LETI, Univ. Grenoble Alpes), Andrea Bocco (CEA, LETI, Univ. 
 Alexander Underwood, Tuan Nguyen and James Stine (Oklahoma State University)
 
 <a href="2019/papers/carrv2019_paper_11.pdf">[paper]</a>
-<a href="2019/papers/carrv2019_paper_11.pdf">[paper]</a>
+<a href="2019/papers/carrv2019_paper_11.pdf">[slides]</a>
 
 
 </td>
