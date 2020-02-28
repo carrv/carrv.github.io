@@ -8,9 +8,10 @@ SoCs, and accelerators. Submission of early work is encouraged. The topics of sp
 interest for the workshop include, but are not limited to:
 
 * RISC-V cores and SoC architectures
+* RISC-V silicon characterizations and system designs
 * RISC-V simulation/emulation infrastructure
 * RISC-V ISA extensions
-* RISC-V-based Hardware accelerators
+* RISC-V-based hardware accelerators
 * Security architectures and techniques
 * Formal methods
 * Verification methodologies
