@@ -22,7 +22,7 @@ interest for the workshop include, but are not limited to:
 ## Important Dates <span style="color:#a94442">(updated)</span>
 
 * Abstract submission deadline: April 18, 2020, 23:59 PST
-* Full paper submission deadline: April 25, 2020, 23:59 PST
+* Full paper submission deadline: April 30, 2020, 23:59 PST
 * Author notification: May 2, 2020
 * Camera-ready version due: May 16, 2020
 * Workshop date (virtual): May 30, 2020
