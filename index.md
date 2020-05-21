@@ -1,6 +1,6 @@
 # Fourth Workshop on Computer Architecture Research with RISC-V (CARRV 2020)
 
-## [Virtual Workshop](https://iscaconf.org/isca2020/), May 30, 2020, Co-located with ISCA 2020
+## [Virtual Workshop](https://iscaconf.org/isca2020/), Friday, May 29th, 2020, Co-located with ISCA 2020
 
 The Fourth Workshop on RISC-V for Computer Architecture Research (CARRV) seeks original
 research papers on the design, implementation, verification, and evaluation of RISC-V cores,
@@ -19,13 +19,13 @@ interest for the workshop include, but are not limited to:
 * RISC-V ISA and implementation performance analysis
 * RISC-V compilers and dynamic translation tools
 
-## Important Dates <span style="color:#a94442">(updated)</span>
+## Important Dates <span style="color:#a94442">(update 2)</span>
 
 * Abstract submission deadline: April 18, 2020, 23:59 PST
 * Full paper submission deadline: April 30, 2020, 23:59 PST
 * Author notification: May 15, 2020
 * Camera-ready version due: May 22, 2020
-* Workshop date (virtual): May 30, 2020
+* Workshop date (virtual): May 29, 2020
 
 ## Virtual Workshop Information <span style="color:#a94442">(new)</span>
 
