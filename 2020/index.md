@@ -46,6 +46,8 @@ Simon Moore (University of Cambridge)
 <b>TEE Boot Procedure with Crypto-accelerators in RISC-V Processors</b><br>
 Ckristian Duran (University of Electro-Communications), Trong-Thuc Hoang (University of Electro-Communications), Akira Tsukamoto (National Institute of Advanced Industrial Science and Technology), Kuniyasu Suzaki (National Institute of Advanced Industrial Science and Technology), Cong-Kha Pham (University of Electro-Communications)
 
+<a href="videos/CARRV_1_Duran.html">[video]</a>
+
 <br><br>
 <b>Experiment on Replication of Side Channel Attack via Cache of RISC-V Berkeley Out-of-order Machine (BOOM) Implemented on FPGA</b><br>
 Anh-Tien Le (The University of Electro-Communications (UEC)), Ba-Anh Dao (The University of Electro-Communications (UEC)), Kuniyasu Suzaki (Technology Research Association of Secure IoT Edge application based on RISC-V Open architecture (TRASIO)), Cong-Kha Pham (The University of Electro-Communications (UEC))
