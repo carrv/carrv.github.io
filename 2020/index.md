@@ -46,24 +46,28 @@ Simon Moore (University of Cambridge)
 <b>TEE Boot Procedure with Crypto-accelerators in RISC-V Processors</b><br>
 Ckristian Duran (University of Electro-Communications), Trong-Thuc Hoang (University of Electro-Communications), Akira Tsukamoto (National Institute of Advanced Industrial Science and Technology), Kuniyasu Suzaki (National Institute of Advanced Industrial Science and Technology), Cong-Kha Pham (University of Electro-Communications)
 
+<a href="papers/CARRV2020_paper_1_Duran.pdf">[paper]</a>
 <a href="videos/CARRV_1_Duran.html">[video]</a>
 
 <br><br>
 <b>Experiment on Replication of Side Channel Attack via Cache of RISC-V Berkeley Out-of-order Machine (BOOM) Implemented on FPGA</b><br>
 Anh-Tien Le (The University of Electro-Communications (UEC)), Ba-Anh Dao (The University of Electro-Communications (UEC)), Kuniyasu Suzaki (Technology Research Association of Secure IoT Edge application based on RISC-V Open architecture (TRASIO)), Cong-Kha Pham (The University of Electro-Communications (UEC))
 
+<a href="papers/CARRV2020_paper_2_Le.pdf">[paper]</a>
 <a href="videos/CARRV_2_Le.html">[video]</a>
 
 <br><br>
 <b>Automatic Code Generation for Rocket Chip RoCC Accelerators</b><br>
 Pengcheng Xu, Yun Liang (Peking University)
 
+<a href="papers/CARRV2020_paper_3_Xu.pdf">[paper]</a>
 <a href="videos/CARRV_3_Xu.html">[video]</a>
 
 <br><br>
 <b>Efficient Multiple-ISA Embedded Processor Core Design Based on RISC-V</b><br>
 Yuanhu Cheng, Libo Huang, Yijun Cui, Sheng Ma, Yongwen Wang, Bincai Sui (National University of Defense Technology)
 
+<a href="papers/CARRV2020_paper_4_Cheng.pdf">[paper]</a>
 <a href="videos/CARRV_4_Cheng.html">[video]</a>
 
 </td>
@@ -77,24 +81,28 @@ Yuanhu Cheng, Libo Huang, Yijun Cui, Sheng Ma, Yongwen Wang, Bincai Sui (Nationa
 <b>PERC: Posit Enhanced Rocket Chip</b><br>
 Arunkumar M V, Sai Ganesh Bhairathi, Harshal Hayatnagarkar (ThoughtWorks Technologies)
 
+<a href="papers/CARRV2020_paper_5_MV.pdf">[paper]</a>
 <a href="videos/CARRV_5_MV.html">[video]</a>
 
 <br><br>
 <b>Accelerate Cycle-Level Full-System Simulation of Multi-Core RISC-V Systems with Binary Translation</b><br>
 Xuan Guo, Robert Mullins (University of Cambridge)
 
+<a href="papers/CARRV2020_paper_6_Guo.pdf">[paper]</a>
 <a href="videos/CARRV_6_Guo.html">[video]</a>
 
 <br><br>
 <b>A RISC-V SystemC-TLM simulator</b><br>
 Màrius Montón (Universitat Autònoma de Barcelona)
 
+<a href="papers/CARRV2020_paper_7_Monton.pdf">[paper]</a>
 <a href="videos/CARRV_7_Monton.html">[video]</a>
 
 <br><br>
 <b>Enabling Hardware Randomization Across the Cache Hierarchy in Linux-Class Processors</b><br>
 Max Doblas Font (Barcelona Supercomputing Center (BSC)), Ioannis-Vatistas Kostalabros (Barcelona Supercomputing Center (BSC)), Miquel Moretó Planas (Barcelona Supercomputing Center (BSC)), Carles Hernández Luz (Universitat Politècnica de València)
 
+<a href="papers/CARRV2020_paper_8_Doblas.pdf">[paper]</a>
 <a href="videos/CARRV_8_Doblas.html">[video]</a>
 
 </td>
@@ -109,24 +117,28 @@ Max Doblas Font (Barcelona Supercomputing Center (BSC)), Ioannis-Vatistas Kostal
 <b>Recommendations for a Radically Secure ISA</b><br>
 Mathieu	Escouteloup (Inria, Univ Rennes, CNRS, IRISA), Jacques Fournier (Univ. Grenoble Alpes, CEA Leti, DSYS/LSOSP), Jean-Louis Lanet (LHS-PEC), Ronan Lashermes (Inria/SED&LHS)
 
+<a href="papers/CARRV2020_paper_9_Escouteloup.pdf">[paper]</a>
 <a href="videos/CARRV_9_Escouteloup.html">[video]</a>
 
 <br><br>
 <b>Prevention of Microarchitectural Covert Channels on an Open-Source 64-bit RISC-V Core</b><br>
 Nils Wistoff (ETH Zürich), Moritz Schneider (ETH Zürich), Frank K. Gürkaynak (ETH Zürich), Luca Benini (ETH Zürich), Gernot Heiser (UNSW and Data61 CSIRO)
 
+<a href="papers/CARRV2020_paper_10_Wistoff.pdf">[paper]</a>
 <a href="videos/CARRV_10_Wistoff.html">[video]</a>
 
 <br><br>
 <b>Enabling Virtual Memory Research on RISC-V with a Configurable TLB Hierarchy for the Rocket Chip Generator</b><br>
 Nikolaos Charalampos Papadopoulos, Vasileios Karakostas, Konstantinos Nikas, Nectarios Koziris and Dionisios Pnevmatikatos (National Technical University of Athens)
 
+<a href="papers/CARRV2020_paper_11_Papadopoulos.pdf">[paper]</a>
 <a href="videos/CARRV_11_Papadopoulos.html">[video]</a>
 
 <br><br>
 <b>HW/SW Approaches for RISC-V Code Size Reduction</b><br>
 Matteo Perotti (ETH Zürich), Pasquale Davide Schiavone (ETH Zürich), Giuseppe Tagliavini (University of Bologna), Davide Rossi (University of Bologna), Tariq Kurd (Huawei), Mark Hill (Huawei), Liu Yingying (Huawei), Luca Benini (ETH Zürich and University of Bologna)
 
+<a href="papers/CARRV2020_paper_12_Perotti.pdf">[paper]</a>
 <a href="videos/CARRV_12_Perotti.html">[video]</a>
 
 </td>
