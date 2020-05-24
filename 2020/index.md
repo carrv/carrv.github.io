@@ -180,7 +180,7 @@ Jerry Zhao, Ben Korpan, Abraham Gonzalez and Krste Asanović (University of Cali
 </tbody>
 </table>
 
-## Important Dates <span style="color:#a94442">(update 2)</span>
+## Important Dates
 
 * Abstract submission deadline: April 18, 2020, 23:59 PST
 * Full paper submission deadline: April 30, 2020, 23:59 PST
@@ -188,14 +188,19 @@ Jerry Zhao, Ben Korpan, Abraham Gonzalez and Krste Asanović (University of Cali
 * Camera-ready version due: May 22, 2020
 * Workshop date (virtual): May 29, 2020
 
-## Virtual Workshop Information <span style="color:#a94442">(new)</span>
+## Virtual Workshop Information <span style="color:#a94442">(updated)</span>
 
 The ISCA 2020 conference, as well as all workshops and tutorials, will be taking place virtually
-this year. The ISCA organizers are working on
-[registration for the virtual conference](https://iscaconf.org/isca2020/) now,
-with more details to come soon. We expect that there will continue to be presentations
-and discussions during the workshop this year, and will share more
-details as they become available.
+this year.
+The new workshop format now includes all presentations and papers being immediately available online for viewing.
+During the live workshop session, all authors will first present a short lightning-talk
+overview of their work, followed by answering a selection of questions during a Q&A session.
+During the week leading up to the workshop, registered attendees will be able to discuss and vote on
+questions for the authors to address. Vote on or contribute your own questions for the authors, as
+only top questions will be selected for response.
+[ISCA Registration](https://iscaconf.org/isca2020/) will open on May 25th,
+and registration is necessary to vote for questions and attend the live session on May 29th.
+
 
 ## Organizers
 
