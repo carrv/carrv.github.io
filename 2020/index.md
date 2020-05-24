@@ -52,13 +52,19 @@ Ckristian Duran (University of Electro-Communications), Trong-Thuc Hoang (Univer
 <b>Experiment on Replication of Side Channel Attack via Cache of RISC-V Berkeley Out-of-order Machine (BOOM) Implemented on FPGA</b><br>
 Anh-Tien Le (The University of Electro-Communications (UEC)), Ba-Anh Dao (The University of Electro-Communications (UEC)), Kuniyasu Suzaki (Technology Research Association of Secure IoT Edge application based on RISC-V Open architecture (TRASIO)), Cong-Kha Pham (The University of Electro-Communications (UEC))
 
+<a href="videos/CARRV_2_Le.html">[video]</a>
+
 <br><br>
 <b>Automatic Code Generation for Rocket Chip RoCC Accelerators</b><br>
 Pengcheng Xu, Yun Liang (Peking University)
 
+<a href="videos/CARRV_3_Xu.html">[video]</a>
+
 <br><br>
 <b>Efficient Multiple-ISA Embedded Processor Core Design Based on RISC-V</b><br>
 Yuanhu Cheng, Libo Huang, Yijun Cui, Sheng Ma, Yongwen Wang, Bincai Sui (National University of Defense Technology)
+
+<a href="videos/CARRV_4_Cheng.html">[video]</a>
 
 </td>
 </tr>
@@ -71,17 +77,25 @@ Yuanhu Cheng, Libo Huang, Yijun Cui, Sheng Ma, Yongwen Wang, Bincai Sui (Nationa
 <b>PERC: Posit Enhanced Rocket Chip</b><br>
 Arunkumar M V, Sai Ganesh Bhairathi, Harshal Hayatnagarkar (ThoughtWorks Technologies)
 
+<a href="videos/CARRV_5_MV.html">[video]</a>
+
 <br><br>
 <b>Accelerate Cycle-Level Full-System Simulation of Multi-Core RISC-V Systems with Binary Translation</b><br>
 Xuan Guo, Robert Mullins (University of Cambridge)
+
+<a href="videos/CARRV_6_Guo.html">[video]</a>
 
 <br><br>
 <b>A RISC-V SystemC-TLM simulator</b><br>
 Màrius Montón (Universitat Autònoma de Barcelona)
 
+<a href="videos/CARRV_7_Monton.html">[video]</a>
+
 <br><br>
 <b>Enabling Hardware Randomization Across the Cache Hierarchy in Linux-Class Processors</b><br>
 Max Doblas Font (Barcelona Supercomputing Center (BSC)), Ioannis-Vatistas Kostalabros (Barcelona Supercomputing Center (BSC)), Miquel Moretó Planas (Barcelona Supercomputing Center (BSC)), Carles Hernández Luz (Universitat Politècnica de València)
+
+<a href="videos/CARRV_8_Doblas.html">[video]</a>
 
 </td>
 </tr>
@@ -95,17 +109,25 @@ Max Doblas Font (Barcelona Supercomputing Center (BSC)), Ioannis-Vatistas Kostal
 <b>Recommendations for a Radically Secure ISA</b><br>
 Mathieu	Escouteloup (Inria, Univ Rennes, CNRS, IRISA), Jacques Fournier (Univ. Grenoble Alpes, CEA Leti, DSYS/LSOSP), Jean-Louis Lanet (LHS-PEC), Ronan Lashermes (Inria/SED&LHS)
 
+<a href="videos/CARRV_9_Escouteloup.html">[video]</a>
+
 <br><br>
 <b>Prevention of Microarchitectural Covert Channels on an Open-Source 64-bit RISC-V Core</b><br>
 Nils Wistoff (ETH Zürich), Moritz Schneider (ETH Zürich), Frank K. Gürkaynak (ETH Zürich), Luca Benini (ETH Zürich), Gernot Heiser (UNSW and Data61 CSIRO)
+
+<a href="videos/CARRV_10_Wistoff.html">[video]</a>
 
 <br><br>
 <b>Enabling Virtual Memory Research on RISC-V with a Configurable TLB Hierarchy for the Rocket Chip Generator</b><br>
 Nikolaos Charalampos Papadopoulos, Vasileios Karakostas, Konstantinos Nikas, Nectarios Koziris and Dionisios Pnevmatikatos (National Technical University of Athens)
 
+<a href="videos/CARRV_11_Papadopoulos.html">[video]</a>
+
 <br><br>
 <b>HW/SW Approaches for RISC-V Code Size Reduction</b><br>
 Matteo Perotti (ETH Zürich), Pasquale Davide Schiavone (ETH Zürich), Giuseppe Tagliavini (University of Bologna), Davide Rossi (University of Bologna), Tariq Kurd (Huawei), Mark Hill (Huawei), Liu Yingying (Huawei), Luca Benini (ETH Zürich and University of Bologna)
+
+<a href="videos/CARRV_12_Perotti.html">[video]</a>
 
 </td>
 </tr>
@@ -119,13 +141,19 @@ Matteo Perotti (ETH Zürich), Pasquale Davide Schiavone (ETH Zürich), Giuseppe 
 <b>Software-Based Off-Chip Memory Protection for RISC-V Trusted Execution Environments</b><br>
 Gui Andrade, Dayeol Lee, David Kohlbrenner, Krste Asanović, Dawn Song (University of California, Berkeley)
 
+<a href="videos/CARRV_13_Andrade.html">[video]</a>
+
 <br><br>
 <b>Ariane + NVDLA: Seamless Third-Party IP Integration with ESP</b><br>
 Davide Giri (Columbia University), Kuan-Lin Chiu (Columbia University), Guy Eichler (Columbia University), Paolo Mantovani (Columbia University), Nandhini Chandramoorthy (IBM Thomas J. Watson Research Center), Luca P. Carloni (Columbia University)
 
+<a href="videos/CARRV_14_Giri.html">[video]</a>
+
 <br><br>
 <b>SonicBOOM: The 3rd Generation Berkeley Out-of-Order Machine</b><br>
 Jerry Zhao, Ben Korpan, Abraham Gonzalez and Krste Asanović (University of California, Berkeley)
+
+<a href="videos/CARRV_15_Zhao.html">[video]</a>
 
 <br><br>
 <b>Closing remarks</b>
