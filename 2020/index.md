@@ -153,18 +153,21 @@ Matteo Perotti (ETH Zürich), Pasquale Davide Schiavone (ETH Zürich), Giuseppe 
 <b>Software-Based Off-Chip Memory Protection for RISC-V Trusted Execution Environments</b><br>
 Gui Andrade, Dayeol Lee, David Kohlbrenner, Krste Asanović, Dawn Song (University of California, Berkeley)
 
+<a href="papers/CARRV2020_paper_13_Andrade.pdf">[paper]</a>
 <a href="videos/CARRV_13_Andrade.html">[video]</a>
 
 <br><br>
 <b>Ariane + NVDLA: Seamless Third-Party IP Integration with ESP</b><br>
 Davide Giri (Columbia University), Kuan-Lin Chiu (Columbia University), Guy Eichler (Columbia University), Paolo Mantovani (Columbia University), Nandhini Chandramoorthy (IBM Thomas J. Watson Research Center), Luca P. Carloni (Columbia University)
 
+<a href="papers/CARRV2020_paper_14_Giri.pdf">[paper]</a>
 <a href="videos/CARRV_14_Giri.html">[video]</a>
 
 <br><br>
 <b>SonicBOOM: The 3rd Generation Berkeley Out-of-Order Machine</b><br>
 Jerry Zhao, Ben Korpan, Abraham Gonzalez and Krste Asanović (University of California, Berkeley)
 
+<a href="papers/CARRV2020_paper_15_Zhao.pdf">[paper]</a>
 <a href="videos/CARRV_15_Zhao.html">[video]</a>
 
 <br><br>
