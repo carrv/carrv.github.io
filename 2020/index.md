@@ -61,6 +61,7 @@ Anh-Tien Le (The University of Electro-Communications (UEC)), Ba-Anh Dao (The Un
 Pengcheng Xu, Yun Liang (Peking University)
 
 <a href="papers/CARRV2020_paper_3_Xu.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_3_Xu.pdf">[slides]</a>
 <a href="videos/CARRV_3_Xu.html">[video]</a>
 
 <br><br>
@@ -96,6 +97,7 @@ Xuan Guo, Robert Mullins (University of Cambridge)
 Màrius Montón (Universitat Autònoma de Barcelona)
 
 <a href="papers/CARRV2020_paper_7_Monton.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_7_Monton.pdf">[slides]</a>
 <a href="videos/CARRV_7_Monton.html">[video]</a>
 
 <br><br>
@@ -103,6 +105,7 @@ Màrius Montón (Universitat Autònoma de Barcelona)
 Max Doblas Font (Barcelona Supercomputing Center (BSC)), Ioannis-Vatistas Kostalabros (Barcelona Supercomputing Center (BSC)), Miquel Moretó Planas (Barcelona Supercomputing Center (BSC)), Carles Hernández Luz (Universitat Politècnica de València)
 
 <a href="papers/CARRV2020_paper_8_Doblas.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_8_Doblas.pdf">[slides]</a>
 <a href="videos/CARRV_8_Doblas.html">[video]</a>
 
 </td>
@@ -132,6 +135,7 @@ Nils Wistoff (ETH Zürich), Moritz Schneider (ETH Zürich), Frank K. Gürkaynak 
 Nikolaos Charalampos Papadopoulos, Vasileios Karakostas, Konstantinos Nikas, Nectarios Koziris and Dionisios Pnevmatikatos (National Technical University of Athens)
 
 <a href="papers/CARRV2020_paper_11_Papadopoulos.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_11_Papadopoulos.pdf">[slides]</a>
 <a href="videos/CARRV_11_Papadopoulos.html">[video]</a>
 
 <br><br>
@@ -154,6 +158,7 @@ Matteo Perotti (ETH Zürich), Pasquale Davide Schiavone (ETH Zürich), Giuseppe 
 Gui Andrade, Dayeol Lee, David Kohlbrenner, Krste Asanović, Dawn Song (University of California, Berkeley)
 
 <a href="papers/CARRV2020_paper_13_Andrade.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_13_Andrade.pdf">[slides]</a>
 <a href="videos/CARRV_13_Andrade.html">[video]</a>
 
 <br><br>
@@ -161,6 +166,7 @@ Gui Andrade, Dayeol Lee, David Kohlbrenner, Krste Asanović, Dawn Song (Universi
 Davide Giri (Columbia University), Kuan-Lin Chiu (Columbia University), Guy Eichler (Columbia University), Paolo Mantovani (Columbia University), Nandhini Chandramoorthy (IBM Thomas J. Watson Research Center), Luca P. Carloni (Columbia University)
 
 <a href="papers/CARRV2020_paper_14_Giri.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_14_Giri.pdf">[slides]</a>
 <a href="videos/CARRV_14_Giri.html">[video]</a>
 
 <br><br>
