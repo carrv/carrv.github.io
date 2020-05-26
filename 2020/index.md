@@ -143,6 +143,7 @@ Nikolaos Charalampos Papadopoulos, Vasileios Karakostas, Konstantinos Nikas, Nec
 Matteo Perotti (ETH Zürich), Pasquale Davide Schiavone (ETH Zürich), Giuseppe Tagliavini (University of Bologna), Davide Rossi (University of Bologna), Tariq Kurd (Huawei), Mark Hill (Huawei), Liu Yingying (Huawei), Luca Benini (ETH Zürich and University of Bologna)
 
 <a href="papers/CARRV2020_paper_12_Perotti.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_12_Perotti.pdf">[slides]</a>
 <a href="videos/CARRV_12_Perotti.html">[video]</a>
 
 </td>
