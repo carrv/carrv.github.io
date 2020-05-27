@@ -70,6 +70,7 @@ Pengcheng Xu, Yun Liang (Peking University)
 Yuanhu Cheng, Libo Huang, Yijun Cui, Sheng Ma, Yongwen Wang, Bincai Sui (National University of Defense Technology)
 
 <a href="papers/CARRV2020_paper_4_Cheng.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_4_Cheng.pdf">[slides]</a>
 <a href="videos/CARRV_4_Cheng.html">[video]</a>
 
 </td>
