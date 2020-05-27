@@ -54,7 +54,7 @@ Ckristian Duran (University of Electro-Communications), Trong-Thuc Hoang (Univer
 Anh-Tien Le (The University of Electro-Communications (UEC)), Ba-Anh Dao (The University of Electro-Communications (UEC)), Kuniyasu Suzaki (Technology Research Association of Secure IoT Edge application based on RISC-V Open architecture (TRASIO)), Cong-Kha Pham (The University of Electro-Communications (UEC))
 
 <a href="papers/CARRV2020_paper_2_Le.pdf">[paper]</a>
-<a href="slides/CARRV2020_slides_2_Le.pdf">[slides]</a>\
+<a href="slides/CARRV2020_slides_2_Le.pdf">[slides]</a>
 <a href="videos/CARRV_2_Le.html">[video]</a>
 
 <br><br>
