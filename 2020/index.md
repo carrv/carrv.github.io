@@ -97,6 +97,7 @@ Yuanhu Cheng, Libo Huang, Yijun Cui, Sheng Ma, Yongwen Wang, Bincai Sui (Nationa
 Arunkumar M V, Sai Ganesh Bhairathi, Harshal Hayatnagarkar (ThoughtWorks Technologies)
 
 <a href="papers/CARRV2020_paper_5_MV.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_5_MV.pdf">[slides]</a>
 <a href="videos/CARRV_5_MV.html">[video]</a>
 
 <br><br>
