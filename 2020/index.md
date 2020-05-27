@@ -131,6 +131,7 @@ Mathieu	Escouteloup (Inria, Univ Rennes, CNRS, IRISA), Jacques Fournier (Univ. G
 Nils Wistoff (ETH Zürich), Moritz Schneider (ETH Zürich), Frank K. Gürkaynak (ETH Zürich), Luca Benini (ETH Zürich), Gernot Heiser (UNSW and Data61 CSIRO)
 
 <a href="papers/CARRV2020_paper_10_Wistoff.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_10_Wistoff.pdf">[slides]</a>
 <a href="videos/CARRV_10_Wistoff.html">[video]</a>
 
 <br><br>
