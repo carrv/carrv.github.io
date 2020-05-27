@@ -19,6 +19,20 @@ interest for the workshop include, but are not limited to:
 * RISC-V ISA and implementation performance analysis
 * RISC-V compilers and dynamic translation tools
 
+## CARRV Invited Talk
+
+<b>CHERI-RISC-V – A Full Stack Solution Mitigating Spatial and Temporal Memory Vulnerabilities</b><br>
+[Simon Moore](https://www.cl.cam.ac.uk/~swm11) (University of Cambridge)
+
+<br><br>
+<b>Abstract</b><br>
+Originally prototyped on MIPS, we have now added CHERI security extensions to the RISC-V ISA, with multiple open-source cores with various microarchitectures prototyped on FPGA.  CHERI extensions for RISC-V provide low-level hardware primitives for in-memory capabilities that allows software to dramatically  improve security by mitigating many spatial and temporal memory safety vulnerabilities.  Spatial vulnerabilities like buffer-overflow and buffer-over read are typically eliminated through the compiler and linker capturing more of the programmer’s original intent.  Pointers are mapped into in-memory capabilities that include bounds, permissions and have integrity properties.  Temporal memory safety mitigates vulnerabilities like use-after-free through revocation of capabilities, offering a major performance improvement over existing techniques like address sanitiser.  Capabilities provide the basis for other software mitigations, including control-flow robustness and highly efficient compartmentalisation.
+
+<br><br>
+<b>Bio</b><br>
+Simon Moore is a Professor of Computer Engineering at the University of Cambridge Department of Computer Science and Technology (previously the Computer Laboratory) in England, where he conducts research and teaching in the general area of computer architecture with particular interests in secure and rigorously-engineered processors and subsystems.  Robert Watson and Simon Moore lead the CHERI project in Cambridge.
+
+
 ## CARRV Preliminary Program
 
 <table>
@@ -32,7 +46,7 @@ interest for the workshop include, but are not limited to:
 <b>Welcome and opening remarks</b>
 
 <br><br>
-<b><u>Invited Talk</u> - CHERI and RISC-V</b><br>
+<b><u>Invited Talk</u> - CHERI-RISC-V – A Full Stack Solution Mitigating Spatial and Temporal Memory Vulnerabilities</b><br>
 Simon Moore (University of Cambridge)
 
 </td>
