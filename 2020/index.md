@@ -192,6 +192,7 @@ Davide Giri (Columbia University), Kuan-Lin Chiu (Columbia University), Guy Eich
 Jerry Zhao, Ben Korpan, Abraham Gonzalez and Krste Asanović (University of California, Berkeley)
 
 <a href="papers/CARRV2020_paper_15_Zhao.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_15_Zhao.pdf">[slides]</a>
 <a href="videos/CARRV_15_Zhao.html">[video]</a>
 
 <br><br>
