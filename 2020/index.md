@@ -106,6 +106,7 @@ Arunkumar M V, Sai Ganesh Bhairathi, Harshal Hayatnagarkar (ThoughtWorks Technol
 Xuan Guo, Robert Mullins (University of Cambridge)
 
 <a href="papers/CARRV2020_paper_6_Guo.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_6_Guo.pdf">[slides]</a>
 <a href="videos/CARRV_6_Guo.html">[video]</a>
 
 <br><br>
