@@ -59,6 +59,7 @@ Simon Moore (University of Cambridge)
 Ckristian Duran (University of Electro-Communications), Trong-Thuc Hoang (University of Electro-Communications), Akira Tsukamoto (National Institute of Advanced Industrial Science and Technology), Kuniyasu Suzaki (National Institute of Advanced Industrial Science and Technology), Cong-Kha Pham (University of Electro-Communications)
 
 <a href="papers/CARRV2020_paper_1_Duran.pdf">[paper]</a>
+<a href="slides/CARRV2020_slides_1_Duran.pdf">[slides]</a>
 <a href="videos/CARRV_1_Duran.html">[video]</a>
 
 <br><br>
