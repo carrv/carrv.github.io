@@ -224,7 +224,7 @@ During the week leading up to the workshop, registered attendees will be able to
 questions for the authors to address. Vote on or contribute your own questions for the authors, as
 only top questions will be selected for response.
 [ISCA Registration](https://iscaconf.org/isca2020/) will open on May 25th,
-and registration is necessary to vote for questions and attend the live session on May 29th.
+and registration is necessary to vote for questions and attend the live session on May 29th. If you still want to submit a question, but the sessions have already started, feel free to use the Q&A function of Zoom.
 
 
 ## Organizers
