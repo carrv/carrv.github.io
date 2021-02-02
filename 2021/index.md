@@ -46,7 +46,7 @@ update this site.
 
 ## Submission Guidelines
 
-All papers should be submitted electronically by
+All papers should be submitted electronically to
 [HotCRP](https://carrv2021.hotcrp.com). Submissions
 in PDF format must be limited to 6 pages including figures and tables,
 plus as many pages as needed for references. Papers must be in PDF
