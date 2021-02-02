@@ -1,6 +1,6 @@
 # Fifth Workshop on Computer Architecture Research with RISC-V (CARRV 2021)
 
-## [Workshop](https://iscaconf.org/isca2021/), Friday, May 22nd, 2021, Co-located with ISCA 2021
+## Friday May 22nd, 2021, Co-located with [ISCA 2021] (https://iscaconf.org/isca2021/)
 
 The Fifth Workshop on RISC-V for Computer Architecture Research (CARRV) seeks original
 research papers on the design, implementation, verification, and evaluation of RISC-V cores,
