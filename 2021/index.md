@@ -29,7 +29,7 @@ interest for the workshop include, but are not limited to:
 ## Workshop Information <span style="color:#a94442">(updated)</span>
 
 The ISCA 2021 conference organizers are in the process of deciding if the conference and
-workshops will take place virtually or half/half. As soon as a decission is made, we will
+workshops will take place virtually or half/half. As soon as a decision is made, we will
 update this site.
 
 ## Organizers
