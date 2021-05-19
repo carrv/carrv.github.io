@@ -21,7 +21,7 @@ interest for the workshop include, but are not limited to:
 ## Important Dates (UPDATED)
 
 <s>* Abstract submission deadline: May 7, 2021, 23:59 PST</s>
-* Full paper submission deadline: May 14, 2021, 23:59 PST
+<s>* Full paper submission deadline: May 14, 2021, 23:59 PST</s>
 * Author notification: May 21, 2021
 * Camera-ready (and video) due: June 9, 2021
 * Workshop date: June 17, 2021
