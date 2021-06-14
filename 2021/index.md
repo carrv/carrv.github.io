@@ -96,6 +96,11 @@ Odysseas Chatzopoulos, George-Marios Fragkoulis, George Papadimitriou, Dimitris 
 <b>From Swift to Mighty: A Cost-Benefit Analysis of Ibex and CV32E40P Regarding Application Performance, Power and Area</b><br>
 Noam Gallmann (ETH Zürich), Pirmin Vogel (lowRISC C.I.C.), Pasquale Davide Schiavone (OpenHW Group), Luca Benini (ETH Zürich, University of Bologna)
 
+<a href="papers/CARRV2021_paper_8_Gallmann.pdf">[paper]</a>
+<a href="slides/CARRV2021_slides_8_Gallmann.pdf">[slides]</a>
+<a href="videos/CARRV2021_full_8_Gallmann.html">[video]</a>
+
+
 </td>
 </tr>
 
