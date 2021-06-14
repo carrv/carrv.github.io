@@ -24,7 +24,7 @@ interest for the workshop include, but are not limited to:
 
 <tr>
 <td>
-10:00am - 11:00am EST - <b>Session 1, Design 1</b>
+9:00am - 9:30am EST - <b>Session 1, Design 1</b>
 
 <br><br>
 <b>Welcome and opening remarks</b>
@@ -66,7 +66,7 @@ Yao-Ming Kuo, Francisco Garcia Herrero, Juan Antonio Maestro (Antonio de Nebrija
 
 <tr>
 <td>
-11:00am - 11:30am EST - <b>Session 2, Analysis</b>
+9:30am - 10:00am EST - <b>Session 2, Analysis</b>
 
 <br><br>
 <b>Performance Counter Design Variation in Rocket Chip via Feature-Oriented Programming</b><br>
@@ -101,7 +101,7 @@ Noam Gallmann (ETH Zürich), Pirmin Vogel (lowRISC C.I.C.), Pasquale Davide Schi
 
 <tr>
 <td>
-11:30am - 12:00noon EST - <b>Session 3, Security 1</b>
+10:00am - 10:30am EST - <b>Session 3, Security 1</b>
 
 <br><br>
 <b>Introducing Fast and Secure Deterministic Stash Free Write Only Oblivious RAMs for Demand Paging in Keystone</b><br>
@@ -141,7 +141,7 @@ Austin Adams, Pulkit Gupta, Blaise Tine, Hyesoon Kim (Georgia Institute of Techn
 
 <tr>
 <td>
-12:00noon - 12:30pm EST - <b>Session 4, Simulation and Verification</b>
+10:30am - 11:00am EST - <b>Session 4, Simulation and Verification</b>
 
 <br><br>
 <b>Supporting RISC-V Full System Simulation in gem5</b><br>
@@ -181,7 +181,7 @@ Noah Moroze, Anish Athalye, Frans Kaashoek, Nickolai Zeldovich (MIT CSAIL)
 
 <tr>
 <td>
-12:30pm - 1:00pm EST - <b>Session 5, Design 2</b>
+11:00am - 11:30am EST - <b>Session 5, Design 2</b>
 
 <br><br>
 <b>Extending the RISC-V ISA for exploring advanced reconfigurable SIMD instructions</b><br>
@@ -221,7 +221,7 @@ Tine Blaise (Georgia Tech), Seyong Lee, Jeff Vetter (Oak Ridge National Laborato
 
 <tr>
 <td>
-12:30pm - 1:00pm EST - <b>Session 6, Security 2</b>
+11:30am - 12:00noon EST - <b>Session 6, Security 2</b>
 
 <br><br>
 <b>RISC-V Microarchitecture Simulation State Enumeration</b><br>
