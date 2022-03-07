@@ -63,8 +63,8 @@ conference venues.
 
 ## Contact
 
-All questions about submissions can be emailed to Silviu Chiricescu
-<<schirice@ieee.org>>.
+All questions about submissions can be emailed to:
+schirice at ieee dot org.
 
 ## Past CARRVs
 
