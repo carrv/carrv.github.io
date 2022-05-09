@@ -51,8 +51,7 @@ All papers should be submitted electronically to
 [HotCRP](https://carrv2022.hotcrp.com). Submissions
 in PDF format must be limited to 6 pages including figures and tables,
 plus as many pages as needed for references. Papers must be in PDF
-format and should **NOT** include title, authors and affiliation, e-mail
-address of the contact author.
+format and the submission should be anonymous.
 
 Papers must be formatted in accordance to the ACM two column
 style. ACM Word or LaTeX style templates are available
