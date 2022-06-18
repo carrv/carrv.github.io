@@ -1,6 +1,7 @@
 # Sixth Workshop on Computer Architecture Research with RISC-V (CARRV 2022)
 
 ## Sunday June 19th, 2022, Co-located with [ISCA 2022](https://iscaconf.org/isca2022/)
+**Located at the [Union Square conference room (lower level)](https://www.iscaconf.org/isca2022/images/nycstf01.png)**
 
 The Sixth Workshop on RISC-V for Computer Architecture Research (CARRV) seeks original
 research papers on the design, implementation, verification, and security evaluation of RISC-V cores,
