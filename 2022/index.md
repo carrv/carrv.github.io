@@ -55,12 +55,14 @@ Christopher Batten (Cornell University), Pjotr Prins, Efraim Flashner, Arun Isaa
 S Pawan Kumar (InCore Semiconductors), Shrreya Singh (IIT Gandhinagar), Neel Gala (InCore Semiconductors), Allen Baum (Esperanto Technologies)
 
 <a href="papers/CARRV2022_paper_2_Kumar.pdf">[paper]</a>
+<a href="slides/CARRV2022_slides_2_Kumar.pdf">[slides]</a>
 
 <br><br>
 <b>Enabling Heterogeneous, Multicore SoC Research with RISC-V and ESP</b><br>
 Joseph Zuckerman, Paolo Mantovani, Davide Giri, Luca P. Carloni (Columbia University)
 
 <a href="papers/CARRV2022_paper_3_Zuckerman.pdf">[paper]</a>
+<a href="slides/CARRV2022_slides_3_Zuckerman.pdf">[slides]</a>
 
 <br><br>
 <b>Open-Source RISC-V Linux-Compatible NVMM Emulator</b><br>
@@ -106,6 +108,7 @@ Martin Maas (Google Research, Google Brain)
 Yonghae Kim, Anurag Kar, Siddant Singh, Ammar A. Ratnani (Georgia Tech), Jaekyu Lee (Arm Research, Intel), Hyesoon Kim (Georgia Tech)
 
 <a href="papers/CARRV2022_paper_5_Kim.pdf">[paper]</a>
+<a href="slides/CARRV2022_slides_5_Kim.pdf">[slides]</a>
 
 <br><br>
 <b>Protection and Relocation Extension for RISC-V</b><br>
@@ -118,6 +121,7 @@ Maja Malenko, Leandro Batista Ribeiro, Marcel Baunach (Graz University of Techno
 Ben Marshall (PQShield), Dan Page, Thinh Pham, Max Whale (University of Bristol)
 
 <a href="papers/CARRV2022_paper_7_Marshall.pdf">[paper]</a>
+<a href="slides/CARRV2022_slides_7_Marshall.pdf">[slides]</a>
 
 </td>
 </tr>
@@ -145,6 +149,7 @@ Mehmetali Semi Yenimol, Gülce Pulat, Ozcan Ozturk (Bilkent University)
 Songyue Wang, Luming Wang, Tianyue Lu, Mingyu Chen (Institute of Computing Technology, Chinese Academy of Sciences)
 
 <a href="papers/CARRV2022_paper_9_Wang.pdf">[paper]</a>
+<a href="slides/CARRV2022_slides_9_Wang.pdf">[slides]</a>
 
 <br><br>
 <b>Shared Vector Register of RISC-V for the Future Hardware Acceleration</b><br>
