@@ -45,6 +45,13 @@ Martin Maas is a Staff Research Scientist at Google Research and part of the Goo
 <b>Welcome and opening remarks</b>
 
 <br><br>
+<b>Architecture and RISC-V ISA Extension Supporting Asynchronous and Flexible Parallel Far Memory Access</b><br>
+Songyue Wang, Luming Wang, Tianyue Lu, Mingyu Chen (Institute of Computing Technology, Chinese Academy of Sciences)
+
+<a href="papers/CARRV2022_paper_9_Wang.pdf">[paper]</a>
+<a href="slides/CARRV2022_slides_9_Wang.pdf">[slides]</a>
+
+<br><br>
 <b>The Case for Using Guix to Enable Reproducible RISC-V Software & Hardware</b><br>
 Christopher Batten (Cornell University), Pjotr Prins, Efraim Flashner, Arun Isaac (The University of Tennessee Health Science Center), Jan van Nieuwenhuizen (Joy of Source), Ekaitz Zarraga (ElenQ Technologies), Tuan Ta, Austin Rovinski (Cornell University), Erik Garrison (The University of Tennessee Health Science Center)
 
@@ -143,13 +150,6 @@ Ben Marshall (PQShield), Dan Page, Thinh Pham, Max Whale (University of Bristol)
 Mehmetali Semi Yenimol, Gülce Pulat, Ozcan Ozturk (Bilkent University)
 
 <a href="papers/CARRV2022_paper_8_Yenimol.pdf">[paper]</a>
-
-<br><br>
-<b>Architecture and RISC-V ISA Extension Supporting Asynchronous and Flexible Parallel Far Memory Access</b><br>
-Songyue Wang, Luming Wang, Tianyue Lu, Mingyu Chen (Institute of Computing Technology, Chinese Academy of Sciences)
-
-<a href="papers/CARRV2022_paper_9_Wang.pdf">[paper]</a>
-<a href="slides/CARRV2022_slides_9_Wang.pdf">[slides]</a>
 
 <br><br>
 <b>Shared Vector Register of RISC-V for the Future Hardware Acceleration</b><br>
