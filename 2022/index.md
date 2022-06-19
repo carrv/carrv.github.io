@@ -48,17 +48,25 @@ Martin Maas is a Staff Research Scientist at Google Research and part of the Goo
 <b>The Case for Using Guix to Enable Reproducible RISC-V Software & Hardware</b><br>
 Christopher Batten (Cornell University), Pjotr Prins, Efraim Flashner, Arun Isaac (The University of Tennessee Health Science Center), Jan van Nieuwenhuizen (Joy of Source), Ekaitz Zarraga (ElenQ Technologies), Tuan Ta, Austin Rovinski (Cornell University), Erik Garrison (The University of Tennessee Health Science Center)
 
+<a href="papers/CARRV2022_paper_1_Batten.pdf">[paper]</a>
+
 <br><br>
 <b>Automating Generation and Maintenance of a High-Quality Architectural Test Suite for RISC-V</b><br>
 S Pawan Kumar (InCore Semiconductors), Shrreya Singh (IIT Gandhinagar), Neel Gala (InCore Semiconductors), Allen Baum (Esperanto Technologies)
+
+<a href="papers/CARRV2022_paper_2_Kumar.pdf">[paper]</a>
 
 <br><br>
 <b>Enabling Heterogeneous, Multicore SoC Research with RISC-V and ESP</b><br>
 Joseph Zuckerman, Paolo Mantovani, Davide Giri, Luca P. Carloni (Columbia University)
 
+<a href="papers/CARRV2022_paper_3_Zuckerman.pdf">[paper]</a>
+
 <br><br>
 <b>Open-Source RISC-V Linux-Compatible NVMM Emulator</b><br>
 Yu Omori, Keiji Kimura (Waseda University)
+
+<a href="papers/CARRV2022_paper_4_Omori.pdf">[paper]</a>
 
 </td>
 </tr>
@@ -97,13 +105,19 @@ Martin Maas (Google Research, Google Brain)
 <b>AOS-RISC-V: Towards Always-On Heap Memory Safety</b><br>
 Yonghae Kim, Anurag Kar, Siddant Singh, Ammar A. Ratnani (Georgia Tech), Jaekyu Lee (Arm Research, Intel), Hyesoon Kim (Georgia Tech)
 
+<a href="papers/CARRV2022_paper_5_Kim.pdf">[paper]</a>
+
 <br><br>
 <b>Protection and Relocation Extension for RISC-V</b><br>
 Maja Malenko, Leandro Batista Ribeiro, Marcel Baunach (Graz University of Technology)
 
+<a href="papers/CARRV2022_paper_6_Malenko.pdf">[paper]</a>
+
 <br><br>
 <b>HYDRA: A Multi-core RISC-V with Cryptographically Useful Modes of Operation</b><br>
 Ben Marshall (PQShield), Dan Page, Thinh Pham, Max Whale (University of Bristol)
+
+<a href="papers/CARRV2022_paper_7_Marshall.pdf">[paper]</a>
 
 </td>
 </tr>
@@ -124,17 +138,25 @@ Ben Marshall (PQShield), Dan Page, Thinh Pham, Max Whale (University of Bristol)
 <b>RISC-V Instruction Set Extension for Graph Applications</b><br>
 Mehmetali Semi Yenimol, Gülce Pulat, Ozcan Ozturk (Bilkent University)
 
+<a href="papers/CARRV2022_paper_8_Yenimol.pdf">[paper]</a>
+
 <br><br>
 <b>Architecture and RISC-V ISA Extension Supporting Asynchronous and Flexible Parallel Far Memory Access</b><br>
 Songyue Wang, Luming Wang, Tianyue Lu, Mingyu Chen (Institute of Computing Technology, Chinese Academy of Sciences)
+
+<a href="papers/CARRV2022_paper_9_Wang.pdf">[paper]</a>
 
 <br><br>
 <b>Shared Vector Register of RISC-V for the Future Hardware Acceleration</b><br>
 Tomoaki Tanaka, Ryosuke Higashi, Hidetaro Tanaka (Tokyo University of Agriculture and Technology), Takefumi Miyoshi (WasaLabo, LLC.), Yasunori Osana (University of the Ryukyus), Jubee Tada (Graduate School of Science and Engineering, Yamagata University), Kiyofumi Tanaka (Japan Advanced Institute of Science and Technology), Hironori Nakajo (Tokyo University of Agriculture and Technology)
 
+<a href="papers/CARRV2022_paper_10_Tanaka.pdf">[paper]</a>
+
 <br><br>
 <b>Implementing Hardware Extensions for Multicore RISC-V GPUs</b><br>
 Tine Blaise, Hyesoon Kim (Georgia Institute of Technology)
+
+<a href="papers/CARRV2022_paper_11_Blaise.pdf">[paper]</a>
 
 </td>
 </tr>
