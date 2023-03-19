@@ -21,12 +21,12 @@ interest for the workshop include, but are not limited to:
 * RISC-V compilers and dynamic translation tools
 
 
-## Important Dates ???
+## Important Dates
 
 * Early Full paper submission deadline: April 3, 2023, 23:59 PST
 * Regular Full paper submission deadline: May 1, 2023, 23:59 PST
-* Author notification: ???
-* Camera-ready due: ???
+* Author notification: TBA
+* Camera-ready due: TBA
 * Workshop date: June 17, 2023
 
 
@@ -35,18 +35,6 @@ interest for the workshop include, but are not limited to:
 The ISCA 2023 conference organizers have informed us that ISCA 2023,
 and the workshops and tutorials, will take place in-person this year.
 
-
-## Organizers ???
-
-* Krste Asanović (University of California, Berkeley)
-* Yungang Bao (ICT)
-* Hyesoon Kim (Georgia Institute of Technology)
-* Alex Bradbury (lowRISC CIC)
-* Trevor E. Carlson (National University of Singapore)
-* Silviu Chiricescu (Draper)
-* G S Madhusudan (IIT-Madras)
-* Robert Mullins (Cambridge)
-* Arun Thomas (Google)
 
 ## Submission Guidelines
 
@@ -63,10 +51,10 @@ style. ACM Word or LaTeX style templates are available
 Note: Workshop publications do not preclude publishing at future
 conference venues.
 
-## Contact ???
+## Contact
 
 All questions about submissions can be emailed to:
-schirice at ieee dot org.
+tcarlson at comp nus edu sg.
 
 ## Past CARRVs
 
