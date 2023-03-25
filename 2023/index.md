@@ -23,12 +23,14 @@ interest for the workshop include, but are not limited to:
 
 ## Important Dates
 
-* Early Full paper submission deadline: April 3, 2023, 23:59 PST
+* Early Full paper submission deadline*: April 3, 2023, 23:59 PST
+* Author notification for Early submission: April 17, 2023
 * Regular Full paper submission deadline: May 1, 2023, 23:59 PST
 * Author notification: TBA
 * Camera-ready due: TBA
 * Workshop date: June 17, 2023
 
+*The early paper submission deadline is for those who need an early acceptance for visa purposes, however anyone is welcome to submit then.
 
 ## Workshop Information
 
