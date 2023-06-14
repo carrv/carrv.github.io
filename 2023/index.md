@@ -155,7 +155,7 @@ Caroline Trippel (Stanford)
 
 <br><br>
 <b>Round Table - Implications for the Design and Validation of Secure Systems</b><br>
-Caroline Trippel (Stanford), Mengjia Yan (MIT)
+Mengyuan Li (MIT), Caroline Trippel (Stanford), Mengjia Yan (MIT)
 
 
 </td>
