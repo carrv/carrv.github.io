@@ -110,7 +110,7 @@ Ognjen Glamocanin (EPFL)
 
 
 <br><br>
-<b>QEMU-CAS: A Full-System Cycle-Accurate Simulation Framework based on QEMUM</b><br>
+<b>QEMU-CAS: A Full-System Cycle-Accurate Simulation Framework based on QEMU</b><br>
 Ye Cao, Zhixuan Xu, Zhangxi Tan (Tsinghua University)
 
 <a href="papers/CARRV2023_paper_5_Cao.pdf">[paper]</a>
