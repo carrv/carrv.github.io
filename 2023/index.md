@@ -83,7 +83,7 @@ In this talk, I will present two vulnerabilities identified in AMD SEV resulting
 
 
 
-<br><br>
+<br>
 <b>A Genetic Algorithm for a Spectre Attack Agnostic to Branch Predictors</b><br>
 Dorian Bourgeoisat, Laurent Sauvage (Télécom Paris - Institut Polytechnique de Paris)
 
@@ -146,7 +146,7 @@ techniques against disassembly attacks to protect their proprietary
 code and data.</details>
 
 
-<br><br>
+<br>
 <b>QEMU-CAS: A Full-System Cycle-Accurate Simulation Framework based on QEMU</b><br>
 Ye Cao, Zhixuan Xu, Zhangxi Tan (Tsinghua University)
 
@@ -162,7 +162,7 @@ Kaki Ryan (UNC Chapel Hill)
 Unfortunately, symbolic execution infamously suffers from the path explosion problem. I will first present the piecewise composition search strategy we developed to leverage the modular and cyclical nature of hardware designs to manage the path explosion problem. Using a hardware-oriented symbolic execution engine, we are able to find vulnerabilities in RISC-V processors that commercial and open-source model checking tools do not find. I will also discuss our results using symbolic execution for information-flow analysis in which we eliminate many of the false-positive flows that static analysis or taint tracking can produce.</details>
 
 
-<br><br>
+<br>
 <b>RGen: A Tool for Generating RISC-V Compiler, Simulator, and Application Support</b><br>
 Derek Zijie Tu, Zhangxi Tan (Tsinghua University)
 
