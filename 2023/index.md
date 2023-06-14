@@ -92,7 +92,7 @@ Dorian Bourgeoisat, Laurent Sauvage (Télécom Paris - Institut Polytechnique de
 
 <tr>
 <td>
-12:30noon - 2:00am EST - <b>Lunch</b>
+12:30pm - 2:00am EST - <b>Lunch</b>
 
 </td>
 </tr>
