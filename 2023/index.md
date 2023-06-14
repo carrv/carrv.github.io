@@ -39,7 +39,7 @@ Justin Deters (SimpleRose and Washington University) and Ron K. Cytron (Washingt
 <a href="papers/CARRV2023_paper_1_Deters.pdf">[paper]</a>
 
 <br><br>
-<b>Invited Talk: Design and Implementation of the Labeled RISC-V Architecture</b><br>
+<b><u>Invited Talk</u> - Design and Implementation of the Labeled RISC-V Architecture</b><br>
 Yungang Bao (Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS))
 
 
@@ -104,6 +104,12 @@ Dorian Bourgeoisat, Laurent Sauvage (Télécom Paris - Institut Polytechnique de
 
 
 <br><br>
+<b><u>Invited Talk</u> - Instruction-Level Power Side-Channel Leakage Evaluation of Soft-Core CPUs on Shared FPGAs</b><br>
+Ognjen Glamocanin (EPFL)
+
+
+
+<br><br>
 <b>QEMU-CAS: A Full-System Cycle-Accurate Simulation Framework based on QEMUM</b><br>
 Ye Cao, Zhixuan Xu, Zhangxi Tan (Tsinghua University)
 
@@ -112,8 +118,8 @@ Ye Cao, Zhixuan Xu, Zhangxi Tan (Tsinghua University)
 
 
 <br><br>
-<b><u>Invited Talk</u> - Instruction-Level Power Side-Channel Leakage Evaluation of Soft-Core CPUs on Shared FPGAs</b><br>
-Ognjen Glamocanin (EPFL)
+<b><u>Invited Talk</u> - Bringing Symbolic Execution to the Security Verification of Hardware Designs</b><br>
+Kaki Ryan (UNC Chapel Hill)
 
 
 
@@ -124,10 +130,6 @@ Derek Zijie Tu, Zhangxi Tan (Tsinghua University)
 <a href="papers/CARRV2023_paper_6_Tu.pdf">[paper]</a>
 
 
-
-<br><br>
-<b><u>Invited Talk</u> - Bringing Symbolic Execution to the Security Verification of Hardware Designs</b><br>
-Kaki Ryan (UNC Chapel Hill)
 
 </td>
 </tr>
