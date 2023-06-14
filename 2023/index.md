@@ -76,7 +76,9 @@ Zexin Fu, Mingzi Wang, Yihai Zhang, Zhangxi Tan (Tsinghua University)
 <br><br>
 <b><u>Invited Talk</u>  - The Double-Edged Sword: Uncovering Security Implications of Performance Optimization in TEE Design</b><br>
 Mengyuan Li (MIT)
+<details> <summary>Abstract</summary>For years, the main obstacle to cloud adoption has been a lack of trust in Cloud Service Providers (CSPs). The concept of confidential computing has been enabled by an emerging security feature in modern CPUs, dubbed Trusted Execution Environment (TEE), which removes the need to trust the CSP. Aiming to provide data-in-use protection, TEE uses hardware-enabled isolation to protect the cloud workload against both physical access attacks and privileged software-level attacks. Due to the enormous market potential, all main processor vendors have released or are working on releasing confidential VM features in their server CPU lines, including AMD Secure Encrypted Virtualization (SEV), Intel Trust Domain Extension (TDX), and ARM Confidential Compute Architecture (CCA). However, performance optimization in these TEE designs can introduce vulnerabilities.<br><br>
 
+In this talk, I will present two vulnerabilities identified in AMD SEV resulting from inconsiderate performance optimization. The first vulnerability relates to SEV's improper use of the address space identifier (ASID), which plays a rather important role in improving performance during a context switch. Based on our exploration, we present CrossLine attacks, which exploit a momentary execution to breach the confidentiality and integrity of SEV VMs. The second vulnerability is related to the confidential VM's hardware-accelerated memory encryption engine. We then introduce the ciphertext side channel, a previously unexplored side-channel, allowing a privileged adversary to infer execution states and potentially break constant-time OpenSSL implementations within confidential VMs. Finally, I will discuss existing TEE designs on the RISC-V platform and future directions for TEE design with improved performance.</details>
 
 
 
@@ -106,7 +108,42 @@ Dorian Bourgeoisat, Laurent Sauvage (Télécom Paris - Institut Polytechnique de
 <br><br>
 <b><u>Invited Talk</u> - Instruction-Level Power Side-Channel Leakage Evaluation of Soft-Core CPUs on Shared FPGAs</b><br>
 Ognjen Glamocanin (EPFL)
-
+<details> <summary>Abstract</summary>Side-channel disassembly attacks recover CPU instructions
+from power or electromagnetic side-channel traces measured during code
+execution. These attacks typically rely on physical access, proximity
+to the victim device, and high sampling rate measuring instruments. In
+this work, however, we analyze the CPU instruction-level power
+side-channel leakage in an environment that lacks physical access or
+expensive measuring equipment. We show that instruction leakage is
+present even in a multitenant FPGA scenario, where the victim uses a
+soft-core CPU, and the adversary deploys on-chip voltage-fluctuation
+sensors. Unlike previous remote power side-channel attacks, which
+either require a considerable number of victim traces or attack large
+victim circuits such as machine learning accelerators, we take an
+evaluator’s point of view and provide an analysis of the
+instruction-level power side-channel leakage of a small open-source
+RISC-V soft processor core. To investigate whether the power
+side-channel traces leak secrets, we profile the victim device and
+implement various instruction opcode classifiers based on classical
+machine learning algorithms used in disassembly attacks and novel deep
+learning approaches. We explore how parameters such as placement,
+trace averaging, profiling templates, and different FPGA families
+(including a cloud-scale FPGA) impact classification accuracy. Despite
+the limited leakage of the soft-core CPU victim and a reduced accuracy
+and sampling rate of on-chip sensors, we show that in a worst-case
+scenario for the evaluator, i.e., an attacker breaching physical
+separation, we can identify the opcode of executed instructions with
+an average accuracy as high as 86.46%. Our analysis shows that
+determining the executed instruction type is not a classification
+bottleneck, while leakages between instructions of the same type can
+be challenging for deep learning models to distinguish. We also show
+that the instruction-level leakage is significantly reduced in a
+cloud-scale FPGA scenario with higher soft-core CPU frequencies.
+Nevertheless, our results show that even small circuits, such as
+soft-core CPUs, leak potentially exploitable information through
+on-chip power side channels, and users should deploy mitigation
+techniques against disassembly attacks to protect their proprietary
+code and data.</details>
 
 
 <br><br>
@@ -120,7 +157,9 @@ Ye Cao, Zhixuan Xu, Zhangxi Tan (Tsinghua University)
 <br><br>
 <b><u>Invited Talk</u> - Bringing Symbolic Execution to the Security Verification of Hardware Designs</b><br>
 Kaki Ryan (UNC Chapel Hill)
+<details> <summary>Abstract</summary>The verification of hardware designs is a key activity for ensuring the correctness and security of a design early in the hardware lifecycle. In this talk, I will discuss our work developing a new point in the hardware verification space: software-style symbolic execution. Symbolic execution generalizes testing by replacing concrete values with symbols, with each symbol representing the set of possible values of the variable. This path-based symbolic analysis allows for deep and precise exploration of the design’s state space.<br><br>
 
+Unfortunately, symbolic execution infamously suffers from the path explosion problem. I will first present the piecewise composition search strategy we developed to leverage the modular and cyclical nature of hardware designs to manage the path explosion problem. Using a hardware-oriented symbolic execution engine, we are able to find vulnerabilities in RISC-V processors that commercial and open-source model checking tools do not find. I will also discuss our results using symbolic execution for information-flow analysis in which we eliminate many of the false-positive flows that static analysis or taint tracking can produce.</details>
 
 
 <br><br>
