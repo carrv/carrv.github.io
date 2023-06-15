@@ -20,6 +20,10 @@ interest for the workshop include, but are not limited to:
 * RISC-V ISA and implementation performance analysis
 * RISC-V compilers and dynamic translation tools
 
+## CARRV Invited Talks and Roundtables
+
+This year, as we have been looking more toward security, the CARRV organizers would like to announce our new format this year, augmenting our wrokshop papers with five security-related talks and one round table session. From TEEs to physical side-channels on FPGAs, we have a number of presentations targeting this year's security focus. In addition to our invited talks, we will host a round-table to discuss the implications of security on design.
+
 ## CARRV Preliminary Program
 
 <table>
