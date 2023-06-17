@@ -41,6 +41,8 @@ This year, as we have been looking more toward security, the CARRV organizers wo
 Justin Deters (SimpleRose and Washington University) and Ron K. Cytron (Washington University)
 
 <a href="papers/CARRV2023_paper_1_Deters.pdf">[paper]</a>
+<a href="slides/CARRV2023_slides_1_Deters.pdf">[slides]</a>
+
 
 <br><br>
 <b><u>Invited Talk</u> - Design and Implementation of the Labeled RISC-V Architecture</b><br>
@@ -53,6 +55,7 @@ Yungang Bao (Institute of Computing Technology (ICT), Chinese Academy of Science
 Asbjørn Djupdal, Magnus Själander, Magnus Jahre, and Snorre Aunet (Norwegian University of Science and Technology (NTNU))
 
 <a href="papers/CARRV2023_paper_2_Djupdal.pdf">[paper]</a>
+<a href="slides/CARRV2023_slides_2_Djupdal.pdf">[slides]</a>
 
 </td>
 </tr>
@@ -74,6 +77,7 @@ Asbjørn Djupdal, Magnus Själander, Magnus Jahre, and Snorre Aunet (Norwegian U
 Zexin Fu, Mingzi Wang, Yihai Zhang, Zhangxi Tan (Tsinghua University)
 
 <a href="papers/CARRV2023_paper_3_Fu.pdf">[paper]</a>
+<a href="slides/CARRV2023_slides_3_Fu.pdf">[slides]</a>
 
 
 
@@ -92,6 +96,8 @@ In this talk, I will present two vulnerabilities identified in AMD SEV resulting
 Derek Zijie Tu, Zhangxi Tan (Tsinghua University)
 
 <a href="papers/CARRV2023_paper_6_Tu.pdf">[paper]</a>
+<a href="slides/CARRV2023_slides_6_Tu.pdf">[slides]</a>
+
 
 </td>
 </tr>
@@ -155,6 +161,7 @@ code and data.</details>
 Ye Cao, Zhixuan Xu, Zhangxi Tan (Tsinghua University)
 
 <a href="papers/CARRV2023_paper_5_Cao.pdf">[paper]</a>
+<a href="slides/CARRV2023_slides_5_Cao.pdf">[slides]</a>
 
 
 
@@ -171,6 +178,7 @@ Unfortunately, symbolic execution infamously suffers from the path explosion pro
 Dorian Bourgeoisat, Laurent Sauvage (Télécom Paris - Institut Polytechnique de Paris)
 
 <a href="papers/CARRV2023_paper_4_Bourgeoisat.pdf">[paper]</a>
+<a href="slides/CARRV2023_slides_4_Bourgeoisat.pdf">[slides]</a>
 
 
 
