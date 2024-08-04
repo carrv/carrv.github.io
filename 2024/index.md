@@ -19,7 +19,7 @@ interest for the workshop include, but are not limited to:
 
 ## Important Dates
 
-* Full paper submission deadline: August 4, 2024, 23:59 PST
+* Full paper submission deadline: ~~August 4,~~ August 11,  2024, 23:59 PST
 * Author notification: September 1, 2024
 * Camera-ready due: September 15, 2024, 23:59 PST
 * Workshop date: November 2, 2024
