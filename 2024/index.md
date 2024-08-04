@@ -42,7 +42,7 @@ conference venues.
 ## Contact
 
 All questions about submissions can be emailed to:
-schirice at ieee dot org.
+komail dot dharsee+carrv at gmail dot com
 
 ## Past CARRVs
 
