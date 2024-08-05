@@ -39,6 +39,8 @@ style. ACM Word or LaTeX style templates are available
 Note: Workshop publications do not preclude publishing at future
 conference venues.
 
+The submissions should be done  via [EasyChair](https://easychair.org/conferences/?conf=carrv2024) 
+
 ## Contact
 
 All questions about submissions can be emailed to:
