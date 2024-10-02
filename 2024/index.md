@@ -1,6 +1,6 @@
 # Eighth Workshop on Computer Architecture Research with RISC-V (CARRV 2024)
 
-## Saturday November 2nd, 2024, Co-located with [MICRO 2024](https://microarch.org/micro57/)
+## Sunday November 3rd, 2024, Co-located with [MICRO 2024](https://microarch.org/micro57/)
 
 The Eighth Workshop on RISC-V for Computer Architecture Research (CARRV) seeks original
 research papers on the design, implementation, verification, and evaluation of
