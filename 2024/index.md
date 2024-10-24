@@ -31,10 +31,8 @@ interest for the workshop include, but are not limited to:
 
 <tr><td>
 8:30am - 9:30am CST
-
 <br><br>
 <b>Welcome and opening remarks</b>
-
 <br><br>
 <b><u>Invited Talk</u> - Pre-silicon Side-channel Leakage Assessment Across the Hardware/Software Boundary</b><br>
 Patrick Schaumont (Worcester Polytechnic Institute (WPI))
@@ -42,8 +40,7 @@ Patrick Schaumont (Worcester Polytechnic Institute (WPI))
 </td></tr>
 
 <tr><td>
-9:30am - 10:00am CST  
-  
+9:30am - 10:00am CST
 <br><br>
 <b>GPGPU Pipeline Visualization for RISC-V SIMT Architecture</b><br>
 Yu-Yu	Hsiao, Liang-Chou	Chen, Chung-Ho Chen (National Cheng Kung University)
@@ -71,7 +68,6 @@ George-Marios	Fragkoulis, Nikos	Karystinos, George Papadimitriou, Dimitris	Gizop
 <tr>
 <td>
 11:00am - 12:00pm CST
-
 <br><br>
 <b><u>Invited Talk</u> - Hardware Fuzzing: What? Why? How?</b><br>
 Jeyavijayan "JV" Rajendran (Texas A&M University)
@@ -83,8 +79,7 @@ Jeyavijayan "JV" Rajendran (Texas A&M University)
 </td></tr>
 
 <tr><td>
-1:00pm - 1:30pm CST  
-  
+1:00pm - 1:30pm CST
 <br><br>
 <b>Virgo: Cluster-level Matrix Unit Integration in GPUs for Scalability and Energy Efficiency</b><br>
 Hansung	Kim, Ruohan	Yan, Joshua	You, Tieliang Vamber, Yakun Sophia Shao (University of California, Berkeley)
@@ -94,8 +89,7 @@ Hansung	Kim, Ruohan	Yan, Joshua	You, Tieliang Vamber, Yakun Sophia Shao (Univers
 </td></tr>
 
 <tr><td>
-1:30pm - 2:00pm CST  
-  
+1:30pm - 2:00pm CST
 <br><br>
 <b>Extending RISC-V Keystone to Include Efficient Secure Memory</b><br>
 Tamara Lehman and Zach Moolman (University of Colorado Boulder)
