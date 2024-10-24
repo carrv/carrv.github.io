@@ -46,7 +46,7 @@ Patrick Schaumont (Worcester Polytechnic Institute (WPI))
 <b>GPGPU Pipeline Visualization for RISC-V SIMT Architecture</b><br>
 Yu-Yu	Hsiao, Liang-Chou	Chen, Chung-Ho Chen (National Cheng Kung University)
 
-<a href="papers/4.pdf">[paper]</a>
+<a href="papers/CARRV_2024_paper_4.pdf">[paper]</a>
 <a href="slides/4.pdf">[slides]</a>
 <br><br>
 </td></tr>
@@ -61,7 +61,7 @@ Yu-Yu	Hsiao, Liang-Chou	Chen, Chung-Ho Chen (National Cheng Kung University)
 <b>Advancing Cloud Computing Capabilities on gem5 by Implementing the RISC-V Hypervisor Extension</b><br>
 George-Marios	Fragkoulis, Nikos	Karystinos, George Papadimitriou, Dimitris	Gizopoulos (University of Athens)
 
-<a href="papers/3.pdf">[paper]</a>
+<a href="papers/CARRV_2024_paper_3.pdf">[paper]</a>
 <a href="slides/3.pdf">[slides]</a>
 <br><br>
 </td>
@@ -88,7 +88,7 @@ Jeyavijayan "JV" Rajendran (Texas A&M University)
 <b>Virgo: Cluster-level Matrix Unit Integration in GPUs for Scalability and Energy Efficiency</b><br>
 Hansung	Kim, Ruohan	Yan, Joshua	You, Tieliang Vamber, Yakun Sophia Shao (University of California, Berkeley)
 
-<a href="papers/5.pdf">[paper]</a>
+<a href="papers/CARRV_2024_paper_5.pdf">[paper]</a>
 <a href="slides/5.pdf">[slides]</a>
 <br><br>
 </td></tr>
@@ -99,7 +99,7 @@ Hansung	Kim, Ruohan	Yan, Joshua	You, Tieliang Vamber, Yakun Sophia Shao (Univers
 <b>Extending RISC-V Keystone to Include Efficient Secure Memory</b><br>
 Tamara Lehman and Zach Moolman (University of Colorado Boulder)
 
-<a href="papers/7.pdf">[paper]</a>
+<a href="papers/CARRV_2024_paper_7.pdf">[paper]</a>
 <a href="slides/7.pdf">[slides]</a>
 <br><br>
 </td></tr>
