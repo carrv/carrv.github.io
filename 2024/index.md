@@ -47,7 +47,7 @@ Patrick Schaumont (Worcester Polytechnic Institute (WPI))
 Yu-Yu	Hsiao, Liang-Chou	Chen, Chung-Ho Chen (National Cheng Kung University)
 
 <a href="papers/CARRV_2024_paper_4.pdf">[paper]</a>
-<a href="slides/4.pdf">[slides]</a>
+<a href="slides/CARRV_2024_slides_4.pptx">[slides]</a>
 <br><br>
 </td></tr>
 
