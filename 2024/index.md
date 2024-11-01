@@ -89,7 +89,7 @@ Jeyavijayan "JV" Rajendran (Texas A&M University)
 Hansung	Kim, Ruohan	Yan, Joshua	You, Tieliang Vamber, Yakun Sophia Shao (University of California, Berkeley)
 
 <a href="papers/CARRV_2024_paper_5.pdf">[paper]</a>
-<a href="slides/5.pdf">[slides]</a>
+<a href="slides/CARRV_2024_slides_5.pdf">[slides]</a>
 <br><br>
 </td></tr>
 
