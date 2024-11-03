@@ -62,7 +62,7 @@ Yu-Yu	Hsiao, Liang-Chou	Chen, Chung-Ho Chen (National Cheng Kung University)
 George-Marios	Fragkoulis, Nikos	Karystinos, George Papadimitriou, Dimitris	Gizopoulos (University of Athens)
 
 <a href="papers/CARRV_2024_paper_3.pdf">[paper]</a>
-<a href="slides/3.pdf">[slides]</a>
+<a href="slides/CARRV_2024_slides_3.pptx">[slides]</a>
 <br><br>
 </td>
 </tr>
@@ -100,7 +100,7 @@ Hansung	Kim, Ruohan	Yan, Joshua	You, Tieliang Vamber, Yakun Sophia Shao (Univers
 Tamara Lehman and Zach Moolman (University of Colorado Boulder)
 
 <a href="papers/CARRV_2024_paper_7.pdf">[paper]</a>
-<a href="slides/7.pdf">[slides]</a>
+<a href="slides/CARRV_2024_slides_7.pptx">[slides]</a>
 <br><br>
 </td></tr>
 
