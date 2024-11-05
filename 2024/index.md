@@ -100,7 +100,7 @@ Hansung	Kim, Ruohan	Yan, Joshua	You, Tieliang Vamber, Yakun Sophia Shao (Univers
 Tamara Lehman and Zach Moolman (University of Colorado Boulder)
 
 <a href="papers/CARRV_2024_paper_7.pdf">[paper]</a>
-<a href="slides/CARRV_2024_slides_7.pptx">[slides]</a>
+<a href="slides/CARRV_2024_slides_7.pdf">[slides]</a>
 <br><br>
 </td></tr>
 
